@@ -28,17 +28,5 @@ msgstr "Internetverbinding controleren..."
 msgid "Sem conexão com a Internet..."
 msgstr "Geen internetverbinding..."
 
-msgid "Introdução ao BigLinux"
-msgstr "Inleiding tot BigLinux"
-
-msgid "Bem vindo ao BigLinux"
-msgstr "Welkom bij BigLinux"
-
-msgid "Comece com algumas etapas simples."
-msgstr "Begin met een paar eenvoudige stappen."
-
-msgid "Escolha seu navegador padrão"
-msgstr "Kies uw standaardbrowser"
-
-msgid "Defina seus programas padrões."
-msgstr "Stel uw standaardprogramma's in."
+msgid "Escolha seu navegador"
+msgstr "Kies uw browser"

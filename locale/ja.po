@@ -28,17 +28,5 @@ msgstr "インターネット接続を確認しています..."
 msgid "Sem conexão com a Internet..."
 msgstr "インターネットに接続されていません..."
 
-msgid "Introdução ao BigLinux"
-msgstr "BigLinux 入門"
-
-msgid "Bem vindo ao BigLinux"
-msgstr "ビッグリナックスへようこそ"
-
-msgid "Comece com algumas etapas simples."
-msgstr "いくつかの簡単な手順から始めます。"
-
-msgid "Escolha seu navegador padrão"
-msgstr "デフォルトのブラウザを選択してください"
-
-msgid "Defina seus programas padrões."
-msgstr "既定のプログラムを設定します。"
+msgid "Escolha seu navegador"
+msgstr "ブラウザを選択してください"

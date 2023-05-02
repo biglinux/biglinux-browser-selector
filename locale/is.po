@@ -28,17 +28,5 @@ msgstr "Athuga nettengingu..."
 msgid "Sem conexão com a Internet..."
 msgstr "Engin nettenging..."
 
-msgid "Introdução ao BigLinux"
-msgstr "Kynning á BigLinux"
-
-msgid "Bem vindo ao BigLinux"
-msgstr "Velkomin(n) í BigLinux"
-
-msgid "Comece com algumas etapas simples."
-msgstr "Byrjaðu á nokkrum einföldum skrefum."
-
-msgid "Escolha seu navegador padrão"
-msgstr "Veldu sjálfgefinn vafra"
-
-msgid "Defina seus programas padrões."
-msgstr "Stilltu sjálfgefin forrit."
+msgid "Escolha seu navegador"
+msgstr "Veldu vafrann þinn"

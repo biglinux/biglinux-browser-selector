@@ -28,17 +28,5 @@ msgstr "בדיקת חיבור לאינטרנט..."
 msgid "Sem conexão com a Internet..."
 msgstr "אין חיבור לאינטרנט. . ."
 
-msgid "Introdução ao BigLinux"
-msgstr "מבוא ל-BigLinux"
-
-msgid "Bem vindo ao BigLinux"
-msgstr "ברוכים הבאים ל-BigLinux"
-
-msgid "Comece com algumas etapas simples."
-msgstr "התחל בכמה צעדים פשוטים."
-
-msgid "Escolha seu navegador padrão"
-msgstr "בחר את דפדפן ברירת המחדל שלך"
-
-msgid "Defina seus programas padrões."
-msgstr "הגדר את תוכניות ברירת המחדל שלך."
+msgid "Escolha seu navegador"
+msgstr "בחר את הדפדפן שלך"

@@ -28,17 +28,5 @@ msgstr "Az internetkapcsolat ellenőrzése..."
 msgid "Sem conexão com a Internet..."
 msgstr "Nincs internetkapcsolat..."
 
-msgid "Introdução ao BigLinux"
-msgstr "Bevezetés a BigLinuxba"
-
-msgid "Bem vindo ao BigLinux"
-msgstr "Üdvözöljük a BigLinuxon"
-
-msgid "Comece com algumas etapas simples."
-msgstr "Kezdje néhány egyszerű lépéssel."
-
-msgid "Escolha seu navegador padrão"
-msgstr "Válassza ki az alapértelmezett böngészőt"
-
-msgid "Defina seus programas padrões."
-msgstr "Állítsa be az alapértelmezett programokat."
+msgid "Escolha seu navegador"
+msgstr "Válassza ki böngészőjét"

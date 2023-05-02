@@ -28,17 +28,5 @@ msgstr "正在检查互联网连接..."
 msgid "Sem conexão com a Internet..."
 msgstr "没有互联网连接..."
 
-msgid "Introdução ao BigLinux"
-msgstr "BigLinux 简介"
-
-msgid "Bem vindo ao BigLinux"
-msgstr "欢迎来到 BigLinux"
-
-msgid "Comece com algumas etapas simples."
-msgstr "从几个简单的步骤开始。"
-
-msgid "Escolha seu navegador padrão"
-msgstr "选择您的默认浏览器"
-
-msgid "Defina seus programas padrões."
-msgstr "设置默认程序。"
+msgid "Escolha seu navegador"
+msgstr "选择您的浏览器"

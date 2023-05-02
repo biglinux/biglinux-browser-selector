@@ -28,17 +28,5 @@ msgstr "Проверка на интернет връзката..."
 msgid "Sem conexão com a Internet..."
 msgstr "Няма интернет връзка..."
 
-msgid "Introdução ao BigLinux"
-msgstr "Въведение в BigLinux"
-
-msgid "Bem vindo ao BigLinux"
-msgstr "Добре дошли в BigLinux"
-
-msgid "Comece com algumas etapas simples."
-msgstr "Започнете с няколко прости стъпки."
-
-msgid "Escolha seu navegador padrão"
-msgstr "Изберете вашия браузър по подразбиране"
-
-msgid "Defina seus programas padrões."
-msgstr "Задаване на програмите по подразбиране."
+msgid "Escolha seu navegador"
+msgstr "Изберете вашия браузър"

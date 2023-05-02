@@ -28,17 +28,5 @@ msgstr "Interneti-ühenduse kontrollimine ..."
 msgid "Sem conexão com a Internet..."
 msgstr "Interneti-ühendust pole..."
 
-msgid "Introdução ao BigLinux"
-msgstr "BigLinuxi tutvustus"
-
-msgid "Bem vindo ao BigLinux"
-msgstr "Tere tulemast BigLinuxi"
-
-msgid "Comece com algumas etapas simples."
-msgstr "Alustage mõne lihtsa sammuga."
-
-msgid "Escolha seu navegador padrão"
-msgstr "Valige oma vaikebrauser"
-
-msgid "Defina seus programas padrões."
-msgstr "Määrake vaikeprogrammid."
+msgid "Escolha seu navegador"
+msgstr "Valige oma brauser"

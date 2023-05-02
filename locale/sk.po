@@ -28,17 +28,5 @@ msgstr "Kontrola internetového pripojenia..."
 msgid "Sem conexão com a Internet..."
 msgstr "Žiadne internetové pripojenie..."
 
-msgid "Introdução ao BigLinux"
-msgstr "Úvod do BigLinuxu"
-
-msgid "Bem vindo ao BigLinux"
-msgstr "Vitajte v BigLinuxe"
-
-msgid "Comece com algumas etapas simples."
-msgstr "Začnite niekoľkými jednoduchými krokmi."
-
-msgid "Escolha seu navegador padrão"
-msgstr "Výber predvoleného prehliadača"
-
-msgid "Defina seus programas padrões."
-msgstr "Nastavte predvolené programy."
+msgid "Escolha seu navegador"
+msgstr "Vyberte si prehliadač"

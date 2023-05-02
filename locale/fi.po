@@ -28,17 +28,5 @@ msgstr "Internet-yhteyden tarkistaminen..."
 msgid "Sem conexão com a Internet..."
 msgstr "Ei Internet-yhteyttä..."
 
-msgid "Introdução ao BigLinux"
-msgstr "Johdatus BigLinuxiin"
-
-msgid "Bem vindo ao BigLinux"
-msgstr "Tervetuloa BigLinuxiin"
-
-msgid "Comece com algumas etapas simples."
-msgstr "Aloita muutamalla yksinkertaisella vaiheella."
-
-msgid "Escolha seu navegador padrão"
-msgstr "Valitse oletusselaimesi"
-
-msgid "Defina seus programas padrões."
-msgstr "Määritä oletusohjelmat."
+msgid "Escolha seu navegador"
+msgstr "Valitse selaimesi"

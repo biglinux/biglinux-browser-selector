@@ -28,17 +28,5 @@ msgstr "Verificarea conexiunii la Internet..."
 msgid "Sem conexão com a Internet..."
 msgstr "Fără conexiune la Internet..."
 
-msgid "Introdução ao BigLinux"
-msgstr "Introducere în BigLinux"
-
-msgid "Bem vindo ao BigLinux"
-msgstr "Bine ati venit la BigLinux"
-
-msgid "Comece com algumas etapas simples."
-msgstr "Începeți cu câțiva pași simpli."
-
-msgid "Escolha seu navegador padrão"
-msgstr "Alegeți browserul implicit"
-
-msgid "Defina seus programas padrões."
-msgstr "Setați programele implicite."
+msgid "Escolha seu navegador"
+msgstr "Alegeți browserul"

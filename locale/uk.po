@@ -28,17 +28,5 @@ msgstr "Перевірка підключення до Інтернету..."
 msgid "Sem conexão com a Internet..."
 msgstr "Немає підключення до Інтернету..."
 
-msgid "Introdução ao BigLinux"
-msgstr "Вступ до BigLinux"
-
-msgid "Bem vindo ao BigLinux"
-msgstr "Ласкаво просимо до BigLinux"
-
-msgid "Comece com algumas etapas simples."
-msgstr "Почніть з декількох простих кроків."
-
-msgid "Escolha seu navegador padrão"
-msgstr "Вибір браузера за умовчанням"
-
-msgid "Defina seus programas padrões."
-msgstr "Установіть програми за промовчанням."
+msgid "Escolha seu navegador"
+msgstr "Виберіть веб-переглядач"

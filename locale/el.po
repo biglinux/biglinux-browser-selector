@@ -28,17 +28,5 @@ msgstr "Έλεγχος σύνδεσης στο Internet..."
 msgid "Sem conexão com a Internet..."
 msgstr "Δεν υπάρχει σύνδεση στο Internet..."
 
-msgid "Introdução ao BigLinux"
-msgstr "Εισαγωγή στο BigLinux"
-
-msgid "Bem vindo ao BigLinux"
-msgstr "Καλώς ήλθατε στο BigLinux"
-
-msgid "Comece com algumas etapas simples."
-msgstr "Ξεκινήστε με μερικά απλά βήματα."
-
-msgid "Escolha seu navegador padrão"
-msgstr "Επιλέξτε το προεπιλεγμένο πρόγραμμα περιήγησης"
-
-msgid "Defina seus programas padrões."
-msgstr "Ορίστε τα προεπιλεγμένα προγράμματά σας."
+msgid "Escolha seu navegador"
+msgstr "Επιλέξτε το πρόγραμμα περιήγησής σας"

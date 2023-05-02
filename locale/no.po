@@ -28,17 +28,5 @@ msgstr "Kontrollerer Internett-tilkobling..."
 msgid "Sem conexão com a Internet..."
 msgstr "Ingen Internett-tilkobling..."
 
-msgid "Introdução ao BigLinux"
-msgstr "Introduksjon til BigLinux"
-
-msgid "Bem vindo ao BigLinux"
-msgstr "Velkommen til BigLinux"
-
-msgid "Comece com algumas etapas simples."
-msgstr "Start med noen få enkle trinn."
-
-msgid "Escolha seu navegador padrão"
-msgstr "Velg standard nettleser"
-
-msgid "Defina seus programas padrões."
-msgstr "Angi standardprogrammer."
+msgid "Escolha seu navegador"
+msgstr "Velg nettleseren din"

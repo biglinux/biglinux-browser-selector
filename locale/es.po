@@ -28,17 +28,5 @@ msgstr "Comprobando la conexión a Internet..."
 msgid "Sem conexão com a Internet..."
 msgstr "Sin conexión a Internet..."
 
-msgid "Introdução ao BigLinux"
-msgstr "Introducción a BigLinux"
-
-msgid "Bem vindo ao BigLinux"
-msgstr "Bienvenido a BigLinux"
-
-msgid "Comece com algumas etapas simples."
-msgstr "Comience con unos sencillos pasos."
-
-msgid "Escolha seu navegador padrão"
-msgstr "Elige tu navegador predeterminado"
-
-msgid "Defina seus programas padrões."
-msgstr "Establezca los programas predeterminados."
+msgid "Escolha seu navegador"
+msgstr "Elige tu navegador"

@@ -28,17 +28,5 @@ msgstr "Provjera internetske veze..."
 msgid "Sem conexão com a Internet..."
 msgstr "Nema internetske veze..."
 
-msgid "Introdução ao BigLinux"
-msgstr "Uvod u BigLinux"
-
-msgid "Bem vindo ao BigLinux"
-msgstr "Dobrodošli u BigLinux"
-
-msgid "Comece com algumas etapas simples."
-msgstr "Počnite s nekoliko jednostavnih koraka."
-
-msgid "Escolha seu navegador padrão"
-msgstr "Odabir zadanog preglednika"
-
-msgid "Defina seus programas padrões."
-msgstr "Postavite zadane programe."
+msgid "Escolha seu navegador"
+msgstr "Odaberite preglednik"

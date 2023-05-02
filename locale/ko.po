@@ -28,17 +28,5 @@ msgstr "인터넷 연결 확인 중..."
 msgid "Sem conexão com a Internet..."
 msgstr "인터넷에 연결되어 있지 않습니다..."
 
-msgid "Introdução ao BigLinux"
-msgstr "BigLinux 소개"
-
-msgid "Bem vindo ao BigLinux"
-msgstr "BigLinux에 오신 것을 환영합니다."
-
-msgid "Comece com algumas etapas simples."
-msgstr "몇 가지 간단한 단계부터 시작하십시오."
-
-msgid "Escolha seu navegador padrão"
-msgstr "기본 브라우저 선택"
-
-msgid "Defina seus programas padrões."
-msgstr "기본 프로그램을 설정합니다."
+msgid "Escolha seu navegador"
+msgstr "브라우저 선택"

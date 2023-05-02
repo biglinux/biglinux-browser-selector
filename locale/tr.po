@@ -28,17 +28,5 @@ msgstr "İnternet Bağlantısı Kontrol Ediliyor..."
 msgid "Sem conexão com a Internet..."
 msgstr "İnternet bağlantısı yok..."
 
-msgid "Introdução ao BigLinux"
-msgstr "BigLinux'a Giriş"
-
-msgid "Bem vindo ao BigLinux"
-msgstr "BigLinux'a Hoş Geldiniz"
-
-msgid "Comece com algumas etapas simples."
-msgstr "Birkaç basit adımla başlayın."
-
-msgid "Escolha seu navegador padrão"
-msgstr "Varsayılan tarayıcınızı seçme"
-
-msgid "Defina seus programas padrões."
-msgstr "Varsayılan programlarınızı ayarlayın."
+msgid "Escolha seu navegador"
+msgstr "Tarayıcınızı seçin"
