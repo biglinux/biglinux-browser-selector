@@ -28,6 +28,7 @@ export TEXTDOMAIN=bigbrowserselector
 # Don't group windows
 xprop -id "$(xprop -root '\t$0' _NET_ACTIVE_WINDOW | cut -f 2)" -f WM_CLASS 8s -set WM_CLASS "$$"
 
+
 echo '<!DOCTYPE html>
 <html lang="en" >
 <head>
@@ -56,12 +57,12 @@ echo '<!DOCTYPE html>
       <div class="wizard__header-content">
         <h1 class="wizard__title"><!--'$"Bem vindo ao BigLinux"'--></h1>
         <p class="wizard__subheading"><!--'$"Comece com algumas etapas simples."'--></p>
-        
       </div>
-      
-      
 
-<!-- BIG LINUX 01 -->
+      
+    </header>'      
+      
+echo '<!-- BIG LINUX 01 -->
       <div id="DivBrowserRefresh" class="panel">
         <header class="panel__header">
           <h2 class="panel__title">'$"Escolha seu navegador padrão"'</h2>
