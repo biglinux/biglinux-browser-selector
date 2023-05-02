@@ -1,0 +1,44 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the biglinux-browser-selector package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+# 
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: biglinux-browser-selector\n"
+"Report-Msgid-Bugs-To: \n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: attranslate\n"
+
+msgid "Browser Selector"
+msgstr "בורר דפדפנים"
+
+msgid "Aguarde..."
+msgstr "חכה..."
+
+msgid "Verificando conexão com a Internet..."
+msgstr "בדיקת חיבור לאינטרנט..."
+
+msgid "Sem conexão com a Internet..."
+msgstr "אין חיבור לאינטרנט. . ."
+
+msgid "Introdução ao BigLinux"
+msgstr "מבוא ל-BigLinux"
+
+msgid "Bem vindo ao BigLinux"
+msgstr "ברוכים הבאים ל-BigLinux"
+
+msgid "Comece com algumas etapas simples."
+msgstr "התחל בכמה צעדים פשוטים."
+
+msgid "Escolha seu navegador padrão"
+msgstr "בחר את דפדפן ברירת המחדל שלך"
+
+msgid "Defina seus programas padrões."
+msgstr "הגדר את תוכניות ברירת המחדל שלך."

@@ -1,0 +1,44 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the biglinux-browser-selector package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+# 
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: biglinux-browser-selector\n"
+"Report-Msgid-Bugs-To: \n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: attranslate\n"
+
+msgid "Browser Selector"
+msgstr "Browser Selector"
+
+msgid "Aguarde..."
+msgstr "Stai aşa..."
+
+msgid "Verificando conexão com a Internet..."
+msgstr "Verificarea conexiunii la Internet..."
+
+msgid "Sem conexão com a Internet..."
+msgstr "Fără conexiune la Internet..."
+
+msgid "Introdução ao BigLinux"
+msgstr "Introducere în BigLinux"
+
+msgid "Bem vindo ao BigLinux"
+msgstr "Bine ati venit la BigLinux"
+
+msgid "Comece com algumas etapas simples."
+msgstr "Începeți cu câțiva pași simpli."
+
+msgid "Escolha seu navegador padrão"
+msgstr "Alegeți browserul implicit"
+
+msgid "Defina seus programas padrões."
+msgstr "Setați programele implicite."

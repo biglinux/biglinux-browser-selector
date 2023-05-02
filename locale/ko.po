@@ -1,0 +1,44 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the biglinux-browser-selector package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+# 
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: biglinux-browser-selector\n"
+"Report-Msgid-Bugs-To: \n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: attranslate\n"
+
+msgid "Browser Selector"
+msgstr "브라우저 선택기"
+
+msgid "Aguarde..."
+msgstr "잠시 기다리다..."
+
+msgid "Verificando conexão com a Internet..."
+msgstr "인터넷 연결 확인 중..."
+
+msgid "Sem conexão com a Internet..."
+msgstr "인터넷에 연결되어 있지 않습니다..."
+
+msgid "Introdução ao BigLinux"
+msgstr "BigLinux 소개"
+
+msgid "Bem vindo ao BigLinux"
+msgstr "BigLinux에 오신 것을 환영합니다."
+
+msgid "Comece com algumas etapas simples."
+msgstr "몇 가지 간단한 단계부터 시작하십시오."
+
+msgid "Escolha seu navegador padrão"
+msgstr "기본 브라우저 선택"
+
+msgid "Defina seus programas padrões."
+msgstr "기본 프로그램을 설정합니다."

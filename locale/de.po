@@ -1,0 +1,44 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the biglinux-browser-selector package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+# 
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: biglinux-browser-selector\n"
+"Report-Msgid-Bugs-To: \n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: attranslate\n"
+
+msgid "Browser Selector"
+msgstr "Browser-Selektor"
+
+msgid "Aguarde..."
+msgstr "Abwarten..."
+
+msgid "Verificando conexão com a Internet..."
+msgstr "Überprüfung der Internetverbindung..."
+
+msgid "Sem conexão com a Internet..."
+msgstr "Keine Internetverbindung..."
+
+msgid "Introdução ao BigLinux"
+msgstr "Einführung in BigLinux"
+
+msgid "Bem vindo ao BigLinux"
+msgstr "Willkommen bei BigLinux"
+
+msgid "Comece com algumas etapas simples."
+msgstr "Beginnen Sie mit ein paar einfachen Schritten."
+
+msgid "Escolha seu navegador padrão"
+msgstr "Wählen Sie Ihren Standardbrowser"
+
+msgid "Defina seus programas padrões."
+msgstr "Legen Sie Ihre Standardprogramme fest."
