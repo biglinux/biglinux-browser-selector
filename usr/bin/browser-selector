@@ -1,0 +1,5 @@
+#!/bin/bash
+
+cd /usr/share/bigbashview/bcc/apps/biglinux-browser-selector/
+
+bigbashview -s 1000x660 index.sh.htm -n $"Browser Selector" -i applications-internet.svg
