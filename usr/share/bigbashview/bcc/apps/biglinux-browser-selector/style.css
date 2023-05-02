@@ -284,7 +284,7 @@ body, html {
   border-bottom-left-radius: 0;
   border-bottom-right-radius: 0;
   text-align: center;
-  height: 100px;
+  height: 50px;
   /*background: url($background-url);*/
   background-color: rgba(16, 18, 27, 0.4);
   background-position: center;
@@ -422,12 +422,12 @@ body, html {
 .panel__header {
   margin-bottom: 30px;
   margin-top: -180px; 
-  height: 180px;
+  height: 120px;
 }
 .panel__title {
   font-size: 1.5rem;
   line-height: 2rem;
-  margin: 18px;
+  margin: 60px;
 }
 .panel__subheading {
   font-size: 18px;
