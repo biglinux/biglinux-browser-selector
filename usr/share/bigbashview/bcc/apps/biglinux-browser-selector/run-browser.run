@@ -21,16 +21,7 @@ xdg-settings set default-web-browser $BROWSER
 #CLASSIC DESKTOP
 sed -i "s|$DEFAULTWEB|$BROWSER|" ~/.config/plasma-org.kde.plasma.desktop-appletsrc
 
-#new, kunity and next-g
-#não precisa mudar nada
-#reiniciar o plasmashell
-
-if [ "$(ps -e | grep latte-dock)" != "" ]; then
-systemctl --user restart lattedock
-else
-killall plasmashell
 #systemctl --user restart plasma-plasmashell
-fi
 
 #caixa de dialogo
 # kdialog --attach="$windowID" --title $"Navegador Padrão" \
