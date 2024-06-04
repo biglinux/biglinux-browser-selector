@@ -17,6 +17,9 @@ msgstr  "Project-Id-Version: biglinux-browser-selector\n"
 msgid   "Browser Selector"
 msgstr  ""
 
+msgid   "Escolha seu navegador"
+msgstr  ""
+
 msgid   "Aguarde..."
 msgstr  ""
 
@@ -24,7 +27,4 @@ msgid   "Verificando conexão com a Internet..."
 msgstr  ""
 
 msgid   "Sem conexão com a Internet..."
-msgstr  ""
-
-msgid   "Escolha seu navegador"
 msgstr  ""
