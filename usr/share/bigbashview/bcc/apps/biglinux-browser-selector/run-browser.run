@@ -26,7 +26,10 @@ sed -i "s|$DEFAULTWEB|$BROWSER|" ~/.config/plasma-org.kde.plasma.desktop-applets
 #caixa de dialogo
 # kdialog --attach="$windowID" --title $"Navegador Padrão" \
 # 		--msgbox $"O navegador $BROWSER foi definido como padrão com sucesso!"
-xdotool key F5
+# xdotool key F5
+ydotool key 63:1 63:0
+sleep 5
+ydotool key 63:1 63:0
 exit
 
 
