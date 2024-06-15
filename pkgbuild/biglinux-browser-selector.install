@@ -5,6 +5,7 @@
 
 ## arg 1:  the new package version
 post_install() {
+	systemctl -q --global enable ydotool
 	for user in $(awk -F':' '{ if ($3 >= 1000 && $1 != "nobody") print $1 }' /etc/passwd); do
     if [ "$(systemctl is-active --user ydotool)" != "active" ];then
 			sudo -u $user XDG_RUNTIME_DIR=/run/user/$(id -u $user) systemctl --user enable --now ydotool
