@@ -18,6 +18,9 @@ msgstr ""
 msgid "Browser Selector"
 msgstr "Browser Selector"
 
+msgid "Escolha seu navegador"
+msgstr "Escolha seu navegador"
+
 msgid "Aguarde..."
 msgstr "Aguarde..."
 
@@ -26,6 +29,3 @@ msgstr "Verificando conexão com a Internet..."
 
 msgid "Sem conexão com a Internet..."
 msgstr "Sem conexão com a Internet..."
-
-msgid "Escolha seu navegador"
-msgstr "Escolha seu navegador"
