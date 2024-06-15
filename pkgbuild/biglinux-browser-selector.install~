@@ -9,7 +9,6 @@ post_install() {
     if [ "$(systemctl is-active --user ydotool)" != "active" ];then
 			sudo -u $user XDG_RUNTIME_DIR=/run/user/$(id -u $user) systemctl --user enable --now ydotool
     fi
-	done
 }
 
 ## arg 2:  the old package version
