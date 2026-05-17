@@ -127,7 +127,7 @@ class BrowserSelectorWindow(Gtk.Window):
         page_overlay.set_child(scroll)
         page_overlay.add_overlay(self._browser_loading_overlay)
 
-        self.set_content(page_overlay)
+        self.set_child(page_overlay)
 
     def _load_browsers_config(self) -> list[dict]:
         """Load browser configuration from YAML."""
