@@ -35,12 +35,16 @@ page-subtitle {
 }
 
 .browser-icon {
-  icon-size: 56px;
+}
+
+.browser-icon Gtk.Image {
+  width: 56px;
+  height: 56px;
 }
 
 .browser-label {
   font-weight: bold;
-  text-align: center;
+  justify-content: center;
 }
 
 .check-badge {
@@ -61,6 +65,9 @@ page-subtitle {
   border-radius: 8px;
   padding: 8px;
   min-height: 150px;
+}
+
+.log-box Gtk.ScrolledWindow {
   max-height: 200px;
 }
 

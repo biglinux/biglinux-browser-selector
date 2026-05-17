@@ -13,6 +13,8 @@ gi.require_version("Gtk", "4.0")
 from gi.repository import Gdk, GLib, Gtk  # noqa: E402
 
 from utils import APP_PATH, load_browser_icon  # noqa: E402
+import gettext
+_ = gettext.gettext
 
 
 # ---------------------------------------------------------------------------
