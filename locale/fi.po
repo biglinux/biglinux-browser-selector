@@ -75,3 +75,5 @@ msgid "Cancel"
 msgstr "Peruuta"
 # 
 # File: biglinux-browser-selector/usr/share/biglinux/browser_selector/widgets.py, line: 205
+msgid "Done"
+msgstr "Valmis"
