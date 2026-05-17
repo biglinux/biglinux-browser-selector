@@ -1,5 +1,0 @@
-#!/bin/bash
-
-cd /usr/share/bigbashview/bcc/apps/biglinux-browser-selector/
-
-QT_QPA_PLATFORM=xcb SDL_VIDEODRIVER=x11 WINIT_UNIX_BACKEND=x11 GDK_BACKEND=x11 bigbashview -s 1000x660 index.sh.htm -n $"Browser Selector" -i applications-internet.svg

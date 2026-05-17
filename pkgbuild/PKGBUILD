@@ -1,36 +1,32 @@
-# Maintainer: Barnabé di Kartola <barnabedikartola@gmail.com>
+# Maintainer: Bruno Goncalves <bigbruno@gmail.com>
 
 pkgname=biglinux-browser-selector
 pkgver=$(date +%y.%m.%d)
 pkgrel=$(date +%H%M)
-pkgdesc="Browser Selector"
 arch=('any')
+license=('GPL')
+pkgdesc="Choose your default web browser with a modern GTK4 interface."
+depends=('gtk4' 'python' 'polkit' 'python-yaml')
 url="https://github.com/biglinux/$pkgname"
-license=('GPL3')
-depends=('ydotool')
-provides=("$pkgname")
-# conflicts=('')
-source=("git+${url}.git")
-md5sums=('SKIP')
-if [ -e "${pkgname}.install" ];then
+
+source=("$pkgname")
+md5sums=(SKIP)
+
+if [ -e "${pkgname}.install" ]; then
     install=${pkgname}.install
 fi
 
-
 package() {
-
-    InternalDir="${srcdir}/${pkgname}"
-
     # Copy files
-    if [ -d "${InternalDir}/usr" ]; then
-        cp -r "${InternalDir}/usr" "${pkgdir}/"
+    if [ -d "${srcdir}/${pkgname}/usr" ]; then
+        cp -r "${srcdir}/${pkgname}/usr" "${pkgdir}/"
     fi
 
-    if [ -d "${InternalDir}/etc" ]; then
-        cp -r "${InternalDir}/etc" "${pkgdir}/"
+    if [ -d "${srcdir}/${pkgname}/etc" ]; then
+        cp -r "${srcdir}/${pkgname}/etc" "${pkgdir}/"
     fi
 
-    if [ -d "${InternalDir}/opt" ]; then
-        cp -r "${InternalDir}/opt" "${pkgdir}/"
+    if [ -d "${srcdir}/${pkgname}/opt" ]; then
+        cp -r "${srcdir}/${pkgname}/opt" "${pkgdir}/"
     fi
 }

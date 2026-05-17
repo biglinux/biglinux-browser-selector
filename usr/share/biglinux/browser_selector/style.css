@@ -1,0 +1,71 @@
+/* BigLinux Browser Selector — Styles */
+
+page-title {
+  font-size: 24px;
+  font-weight: bold;
+}
+
+page-subtitle {
+  font-size: 13px;
+  color: @text_color_dark;
+}
+
+.browser-card {
+  border-radius: 8px;
+  padding: 16px;
+  margin: 4px;
+  min-width: 100px;
+  min-height: 120px;
+  transition: all 0.2s ease;
+}
+
+.browser-card.dimmed {
+  opacity: 0.5;
+}
+
+.browser-card.selected {
+  border: 2px solid @accent_color;
+}
+
+.browser-icon-bg {
+  background-color: @bg_color;
+  border-radius: 16px;
+  padding: 8px;
+  margin-bottom: 8px;
+}
+
+.browser-icon {
+  icon-size: 56px;
+}
+
+.browser-label {
+  font-weight: bold;
+  text-align: center;
+}
+
+.check-badge {
+  background-color: @accent_color;
+  border-radius: 12px;
+  padding: 4px 8px;
+  margin-top: -16px;
+  margin-right: -16px;
+}
+
+.panel-title {
+  font-size: 16px;
+  font-weight: bold;
+}
+
+.log-box {
+  background-color: @base_color;
+  border-radius: 8px;
+  padding: 8px;
+  min-height: 150px;
+  max-height: 200px;
+}
+
+.browser-loading-overlay {
+  background-color: rgba(0, 0, 0, 0.7);
+  border-radius: 8px;
+  color: white;
+}

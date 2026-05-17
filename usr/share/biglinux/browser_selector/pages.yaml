@@ -1,0 +1,65 @@
+- title: "Choose your default browser"
+  subtitle: "Select and install the web browser of your choice."
+  icon: "internet-web-browser-symbolic"
+  page_type: "browsers"
+  actions:
+
+    - label: "Brave"
+      package: "brave"
+      variants:
+        - { check: "/usr/bin/brave", desktop: "brave-browser.desktop" }
+        - { check: "/var/lib/flatpak/app/com.brave.Browser", desktop: "com.brave.Browser.desktop" }
+
+    - label: "Chromium"
+      package: "chromium"
+      variants:
+        - { check: "/usr/bin/chromium", desktop: "chromium.desktop" }
+        - { check: "/var/lib/flatpak/app/org.chromium.Chromium", desktop: "org.chromium.Chromium.desktop" }
+
+    - label: "Chrome"
+      package: "google-chrome"
+      variants:
+        - { check: "/usr/bin/google-chrome-stable", desktop: "google-chrome.desktop" }
+        - { check: "/var/lib/flatpak/app/com.google.Chrome", desktop: "com.google.Chrome.desktop" }
+
+    - label: "Falkon"
+      package: "falkon"
+      variants:
+        - { check: "/usr/bin/falkon", desktop: "org.kde.falkon.desktop" }
+        - { check: "/var/lib/flatpak/app/org.kde.falkon", desktop: "org.kde.falkon.desktop" }
+
+    - label: "Firefox"
+      package: "firefox"
+      variants:
+        - { check: "/usr/bin/firefox", desktop: "firefox.desktop" }
+        - { check: "/var/lib/flatpak/app/org.mozilla.firefox", desktop: "org.mozilla.firefox.desktop" }
+
+    - label: "Librewolf"
+      package: "librewolf"
+      variants:
+        - { check: "/usr/bin/librewolf", desktop: "librewolf.desktop" }
+        - { check: "/var/lib/flatpak/app/io.gitlab.librewolf-community", desktop: "io.gitlab.librewolf-community.desktop" }
+
+    - label: "Opera"
+      package: "opera"
+      variants:
+        - { check: "/usr/bin/opera", desktop: "opera.desktop" }
+        - { check: "/var/lib/flatpak/app/com.opera.Opera", desktop: "com.opera.Opera.desktop" }
+
+    - label: "Vivaldi"
+      package: "vivaldi"
+      variants:
+        - { check: "/usr/bin/vivaldi", desktop: "vivaldi-stable.desktop" }
+        - { check: "/var/lib/flatpak/app/com.vivaldi.Vivaldi", desktop: "com.vivaldi.Vivaldi.desktop" }
+
+    - label: "Edge"
+      package: "edge"
+      variants:
+        - { check: "/usr/bin/microsoft-edge-stable", desktop: "microsoft-edge.desktop" }
+        - { check: "/var/lib/flatpak/app/com.microsoft.Edge", desktop: "com.microsoft.Edge.desktop" }
+
+    - label: "Zen Browser"
+      package: "zen-browser"
+      variants:
+        - { check: "/usr/bin/zen-browser", desktop: "zen.desktop" }
+        - { check: "/var/lib/flatpak/app/app.zen_browser.zen", desktop: "app.zen_browser.zen.desktop" }

@@ -1,0 +1,11 @@
+**/__pycache__/
+*.old
+*/*.old
+*.bkp
+*/*.bkp
+**/old
+.venv/
+.mypy_cache/
+.ruff_cache/
+.pytest_cache/
+PLANNING.md
