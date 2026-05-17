@@ -64,7 +64,7 @@ class BrowserCard(Gtk.Button):
         self.check_badge = Gtk.Box()
         self.check_badge.add_css_class("check-badge")
         self.check_badge.set_halign(Gtk.Align.END)
-        self.check_badge.set_valign(Gtk.End)
+        self.check_badge.set_valign(Gtk.Align.END)
         self.check_badge.set_visible(False)
 
         check_icon = Gtk.Image.new_from_icon_name("object-select-symbolic")
