@@ -16,34 +16,247 @@ msgstr ""
 "X-Generator: attranslate\n"
 # 
 # File: biglinux-browser-selector/usr/share/biglinux/browser_selector/translatable_strings.py, line: 13
+msgid "Accessibility"
+msgstr "Hozzáférhetőség"
+# 
+# File: biglinux-browser-selector/usr/share/biglinux/browser_selector/translatable_strings.py, line: 14
+msgid "AppStore"
+msgstr "AppStore"
+# 
+# File: biglinux-browser-selector/usr/share/biglinux/browser_selector/translatable_strings.py, line: 15
+msgid "Ashy Terminal"
+msgstr "Ashy Terminál"
+# 
+# File: biglinux-browser-selector/usr/share/biglinux/browser_selector/translatable_strings.py, line: 16
+msgid "Audio Converter"
+msgstr "Hangátalakító"
+# 
+# File: biglinux-browser-selector/usr/share/biglinux/browser_selector/translatable_strings.py, line: 17
+msgid "Big Store"
+msgstr "Nagy Áruház"
+# 
+# File: biglinux-browser-selector/usr/share/biglinux/browser_selector/translatable_strings.py, line: 18
+msgid "BigLinux Info"
+msgstr "BigLinux Információ"
+# 
+# File: biglinux-browser-selector/usr/share/biglinux/browser_selector/translatable_strings.py, line: 19
+msgid "BigLinux Settings"
+msgstr "BigLinux Beállítások"
+# 
+# File: biglinux-browser-selector/usr/share/biglinux/browser_selector/translatable_strings.py, line: 20
+msgid "Brave"
+msgstr "Bátor"
+# 
+# File: biglinux-browser-selector/usr/share/biglinux/browser_selector/translatable_strings.py, line: 21
+msgid "Choose Your Avatar"
+msgstr "Válaszd ki az Avatárod"
+# 
+# File: biglinux-browser-selector/usr/share/biglinux/browser_selector/translatable_strings.py, line: 13
 msgid "Choose your default browser"
 msgstr "Válaszd ki az alapértelmezett böngésződet"
 # 
-# File: biglinux-browser-selector/usr/share/biglinux/browser_selector/translatable_strings.py, line: 14
-msgid "Select and install the web browser of your choice."
-msgstr "Válassza ki és telepítse a választott webböngészőt."
+# File: biglinux-browser-selector/usr/share/biglinux/browser_selector/translatable_strings.py, line: 23
+msgid "Chrome"
+msgstr "Chrome"
 # 
-# File: biglinux-browser-selector/usr/share/biglinux/browser_selector/translatable_strings.py, line: 15
-msgid "Installing"
-msgstr "Telepítés"
+# File: biglinux-browser-selector/usr/share/biglinux/browser_selector/translatable_strings.py, line: 24
+msgid "Chromium"
+msgstr "Króm"
 # 
-# File: biglinux-browser-selector/usr/share/biglinux/browser_selector/translatable_strings.py, line: 16
-msgid "Still working…"
-msgstr "Még dolgozik…"
+# File: biglinux-browser-selector/usr/share/biglinux/browser_selector/translatable_strings.py, line: 25
+msgid "Configure voice"
+msgstr "Hangszóró beállítása"
 # 
-# File: biglinux-browser-selector/usr/share/biglinux/browser_selector/translatable_strings.py, line: 17
+# File: biglinux-browser-selector/usr/share/biglinux/browser_selector/translatable_strings.py, line: 26
+msgid "Control Center"
+msgstr "Vezérlőközpont"
+# 
+# File: biglinux-browser-selector/usr/share/biglinux/browser_selector/translatable_strings.py, line: 27
+msgid "Discover some features"
+msgstr "Fedezze fel a funkciókat"
+# 
+# File: biglinux-browser-selector/usr/share/biglinux/browser_selector/translatable_strings.py, line: 28
+msgid "Display Settings"
+msgstr "Kijelzőbeállítások"
+# 
+# File: biglinux-browser-selector/usr/share/biglinux/browser_selector/translatable_strings.py, line: 29
+msgid "Donate"
+msgstr "Adományozás"
+# 
+# File: biglinux-browser-selector/usr/share/biglinux/browser_selector/translatable_strings.py, line: 30
+msgid "Donation and Social Networks"
+msgstr "Adományozás és közösségi hálózatok"
+# 
+# File: biglinux-browser-selector/usr/share/biglinux/browser_selector/translatable_strings.py, line: 31
+msgid "Driver Installation and Hardware Information"
+msgstr "Illesztőprogram telepítése és hardverinformációk"
+# 
+# File: biglinux-browser-selector/usr/share/biglinux/browser_selector/translatable_strings.py, line: 32
+msgid "Driver Manager"
+msgstr "Illesztőprogram-kezelő"
+# 
+# File: biglinux-browser-selector/usr/share/biglinux/browser_selector/translatable_strings.py, line: 33
+msgid "Edge"
+msgstr "Élmény"
+# 
+# File: biglinux-browser-selector/usr/share/biglinux/browser_selector/translatable_strings.py, line: 34
+msgid "Falkon"
+msgstr "Falkon"
+# 
+# File: biglinux-browser-selector/usr/share/biglinux/browser_selector/translatable_strings.py, line: 35
+msgid "Family Safety"
+msgstr "Családi biztonság"
+# 
+# File: biglinux-browser-selector/usr/share/biglinux/browser_selector/translatable_strings.py, line: 36
+msgid "Firefox"
+msgstr "Firefox"
+# 
+# File: biglinux-browser-selector/usr/share/biglinux/browser_selector/translatable_strings.py, line: 37
+msgid "Forum"
+msgstr "Fórum"
+# 
+# File: biglinux-browser-selector/usr/share/biglinux/browser_selector/translatable_strings.py, line: 38
+msgid "Initial Settings"
+msgstr "Kezdőbeállítások"
+# 
+# File: biglinux-browser-selector/usr/share/biglinux/browser_selector/translatable_strings.py, line: 39
+msgid "Install or Remove Drivers and Firmwares easily."
+msgstr "Illessze vagy távolítsa el a meghajtókat és a firmware-t könnyedén."
+# 
+# File: biglinux-browser-selector/usr/share/biglinux/browser_selector/translatable_strings.py, line: 40
+msgid "KDE Connect"
+msgstr "KDE Kapcsolat"
+# 
+# File: biglinux-browser-selector/usr/share/biglinux/browser_selector/translatable_strings.py, line: 41
+msgid ""
+"KDE Connect is an application that facilitates wireless communication and data transfer between "
+"devices on local networks. Available on the Google Play Store for Android and the Apple Store for "
+"iPhone."
+msgstr ""
+"A KDE Connect egy alkalmazás, amely megkönnyíti a vezeték nélküli kommunikációt és az adatok "
+"átvitelét az eszközök között helyi hálózatokon. Elérhető a Google Play Áruházban Androidra és az "
+"Apple Áruházban iPhone-ra."
+# 
+# File: biglinux-browser-selector/usr/share/biglinux/browser_selector/translatable_strings.py, line: 42
+msgid "Kernel Manager"
+msgstr "Kernel Kezelő"
+# 
+# File: biglinux-browser-selector/usr/share/biglinux/browser_selector/translatable_strings.py, line: 43
+msgid "Language Packs"
+msgstr "Nyelvi csomagok"
+# 
+# File: biglinux-browser-selector/usr/share/biglinux/browser_selector/translatable_strings.py, line: 44
+msgid "Librewolf"
+msgstr "Librewolf"
+# 
+# File: biglinux-browser-selector/usr/share/biglinux/browser_selector/translatable_strings.py, line: 45
+msgid "Network Info"
+msgstr "Hálózati információ"
+# 
+# File: biglinux-browser-selector/usr/share/biglinux/browser_selector/translatable_strings.py, line: 46
+msgid "Noise Reduction"
+msgstr "Zajcsökkentés"
+# 
+# File: biglinux-browser-selector/usr/share/biglinux/browser_selector/translatable_strings.py, line: 47
+msgid "OCR to PDF"
+msgstr "OCR a PDF-be"
+# 
+# File: biglinux-browser-selector/usr/share/biglinux/browser_selector/translatable_strings.py, line: 48
+msgid "Open Parental Controls"
+msgstr "Nyisd meg a Szülői Felügyeletet"
+# 
+# File: biglinux-browser-selector/usr/share/biglinux/browser_selector/translatable_strings.py, line: 49
+msgid "Opera"
+msgstr "Opera"
+# 
+# File: biglinux-browser-selector/usr/share/biglinux/browser_selector/translatable_strings.py, line: 50
+msgid "Our platform is collaborative, join this evolution."
+msgstr "Platformunk együttműködő, csatlakozz ehhez az evolúcióhoz."
+# 
+# File: biglinux-browser-selector/usr/share/biglinux/browser_selector/translatable_strings.py, line: 51
+msgid "PlayStore"
+msgstr "PlayStore"
+# 
+# File: biglinux-browser-selector/usr/share/biglinux/browser_selector/translatable_strings.py, line: 52
+msgid "Printers"
+msgstr "Nyomtatók"
+# 
+# File: biglinux-browser-selector/usr/share/biglinux/browser_selector/translatable_strings.py, line: 53
+msgid "Protect your children online. Set up supervised accounts, screen time, and content filters."
+msgstr ""
+"Védje meg gyermekeit az online térben. Állítson be felügyelt fiókokat, képernyőidőt és "
+"tartalomszűrőket."
+# 
+# File: biglinux-browser-selector/usr/share/biglinux/browser_selector/translatable_strings.py, line: 54
+msgid "Session and Themes"
+msgstr "Munkamenetek és témák"
+# 
+# File: biglinux-browser-selector/usr/share/biglinux/browser_selector/translatable_strings.py, line: 55
+msgid "Set your default browser."
+msgstr "Állítsa be az alapértelmezett böngészőt."
+# 
+# File: biglinux-browser-selector/usr/share/biglinux/browser_selector/translatable_strings.py, line: 56
+msgid "Telegram"
+msgstr "Telegram"
+# 
+# File: biglinux-browser-selector/usr/share/biglinux/browser_selector/translatable_strings.py, line: 57
+msgid "Time Shift"
+msgstr "Időeltolás"
+# 
+# File: biglinux-browser-selector/usr/share/biglinux/browser_selector/translatable_strings.py, line: 58
+msgid "Video Converter"
+msgstr "Videókonverteráló"
+# 
+# File: biglinux-browser-selector/usr/share/biglinux/browser_selector/translatable_strings.py, line: 59
+msgid "Vivaldi"
+msgstr "Vivaldi"
+# 
+# File: biglinux-browser-selector/usr/share/biglinux/browser_selector/translatable_strings.py, line: 60
+msgid "We provide comprehensive settings for you to select in an extremely simple way."
+msgstr "Átfogó beállításokat kínálunk, amelyeket rendkívül egyszerű módon választhatsz ki."
+# 
+# File: biglinux-browser-selector/usr/share/biglinux/browser_selector/translatable_strings.py, line: 61
+msgid "WebApps"
+msgstr "Webalkalmazások"
+# 
+# File: biglinux-browser-selector/usr/share/biglinux/browser_selector/translatable_strings.py, line: 62
+msgid "YouTube"
+msgstr "YouTube"
+# 
+# File: biglinux-browser-selector/usr/share/biglinux/browser_selector/translatable_strings.py, line: 63
+msgid "Your donation is very important for the project and follow us on social media."
+msgstr "A támogatása nagyon fontos a projekt számára, és kövessen minket a közösségi médiában."
+# 
+# File: biglinux-browser-selector/usr/share/biglinux/browser_selector/translatable_strings.py, line: 64
+msgid "Zen Browser"
+msgstr "Zen Böngésző"
+# 
+# File: biglinux-browser-selector/usr/share/biglinux/browser_selector/widgets.py, line: 120
+msgid "Kernel"
+msgstr "Kernel"
+# 
+# File: biglinux-browser-selector/usr/share/biglinux/browser_selector/widgets.py, line: 121
+msgid "Desktop"
+msgstr "Asztal"
+# 
+# File: biglinux-browser-selector/usr/share/biglinux/browser_selector/widgets.py, line: 123
+msgid "Display"
+msgstr "Kijelző"
+# 
+# File: biglinux-browser-selector/usr/share/biglinux/browser_selector/widgets.py, line: 232
 #, python-format
-msgid "Setting %s as default…"
-msgstr "%s alapértelmezettként beállítva…"
+msgid "Could not open %s. It may not be installed."
+msgstr "Nem sikerült megnyitni a %s-t. Lehet, hogy nincs telepítve."
 # 
-# File: biglinux-browser-selector/usr/share/biglinux/browser_selector/translatable_strings.py, line: 18
-#, python-format
-msgid "%s set as default"
-msgstr "%s alapértelmezettként beállítva"
+# File: biglinux-browser-selector/usr/share/biglinux/browser_selector/widgets.py, line: 241
+msgid "Could not open application"
+msgstr "Nem sikerült megnyitni az alkalmazást."
 # 
-# File: biglinux-browser-selector/usr/share/biglinux/browser_selector/translatable_strings.py, line: 19
-msgid "Changing default browser"
-msgstr "Alapértelmezett böngésző módosítása"
+# File: biglinux-browser-selector/usr/share/biglinux/browser_selector/widgets.py, line: 244
+msgid "OK"
+msgstr "Rendkívül fontos, hogy a legfrissebb információkkal rendelkezzünk."
+# 
+# File: biglinux-browser-selector/usr/share/biglinux/browser_selector/widgets.py, line: 244
 # 
 # #-#-#-#-#  biglinux-browser-selector.pot (biglinux-browser-selector)  #-#-#-#-#
 # 
@@ -66,14 +279,143 @@ msgstr "nincs telepítve"
 msgid "default browser"
 msgstr "alapértelmezett böngésző"
 # 
-# File: biglinux-browser-selector/usr/share/biglinux/browser_selector/translatable_strings.py, line: 23
-msgid "busy"
-msgstr "elfoglalt"
+# File: biglinux-browser-selector/usr/share/biglinux/browser_selector/widgets.py, line: 489
+#, python-format
+msgid "Installing %s…"
+msgstr "%s telepítése…"
+# 
+# File: biglinux-browser-selector/usr/share/biglinux/browser_selector/widgets.py, line: 495
+msgid "Preparing download…"
+msgstr "Letöltés előkészítése…"
+# 
+# File: biglinux-browser-selector/usr/share/biglinux/browser_selector/widgets.py, line: 522
+# File: biglinux-browser-selector/usr/share/biglinux/browser_selector/widgets.py, line: 789
+msgid "View details"
+msgstr "Részletek megtekintése"
+# 
+# File: biglinux-browser-selector/usr/share/biglinux/browser_selector/widgets.py, line: 529
+# File: biglinux-browser-selector/usr/share/biglinux/browser_selector/widgets.py, line: 795
+msgid "Show installation details"
+msgstr "Telepítési részletek megjelenítése"
+# 
+# File: biglinux-browser-selector/usr/share/biglinux/browser_selector/widgets.py, line: 557
+msgid "Installation log output"
+msgstr "Telepítési napló kimenet"
 # 
 # File: biglinux-browser-selector/usr/share/biglinux/browser_selector/widgets.py, line: 199
 msgid "Cancel"
 msgstr "Mégse"
 # 
+# File: biglinux-browser-selector/usr/share/biglinux/browser_selector/widgets.py, line: 580
+msgid "Cancel installation"
+msgstr "Telepítés megszakítása"
+# 
 # File: biglinux-browser-selector/usr/share/biglinux/browser_selector/widgets.py, line: 205
 msgid "Done"
 msgstr "Kész."
+# 
+# File: biglinux-browser-selector/usr/share/biglinux/browser_selector/widgets.py, line: 590
+msgid "Close installation panel"
+msgstr "Telepítési panel bezárása"
+# 
+# File: biglinux-browser-selector/usr/share/biglinux/browser_selector/widgets.py, line: 598
+#, python-format
+msgid "Installing %s"
+msgstr "%s telepítése"
+# 
+# File: biglinux-browser-selector/usr/share/biglinux/browser_selector/widgets.py, line: 667
+msgid "It has been set as your default browser."
+msgstr "Alapértelmezett böngészőként van beállítva."
+# 
+# File: biglinux-browser-selector/usr/share/biglinux/browser_selector/widgets.py, line: 668
+#, python-format
+msgid "%s installed successfully!"
+msgstr "%s sikeresen telepítve!"
+# 
+# File: biglinux-browser-selector/usr/share/biglinux/browser_selector/widgets.py, line: 676
+#, python-format
+msgid "%s installed successfully"
+msgstr "%s sikeresen telepítve."
+# 
+# File: biglinux-browser-selector/usr/share/biglinux/browser_selector/widgets.py, line: 684
+#, python-format
+msgid "Failed to install %s"
+msgstr "A %s telepítése nem sikerült."
+# 
+# File: biglinux-browser-selector/usr/share/biglinux/browser_selector/widgets.py, line: 687
+msgid "Check the details below for more information."
+msgstr "Ellenőrizze az alábbi részleteket a további információkért."
+# 
+# File: biglinux-browser-selector/usr/share/biglinux/browser_selector/widgets.py, line: 694
+#, python-format
+msgid "Installation of %s failed"
+msgstr "A %s telepítése meghiúsult."
+# 
+# File: biglinux-browser-selector/usr/share/biglinux/browser_selector/widgets.py, line: 756
+msgid "Cannot cancel during installation"
+msgstr "Telepítés közben nem lehet megszakítani."
+# 
+# File: biglinux-browser-selector/usr/share/biglinux/browser_selector/widgets.py, line: 767
+#, python-brace-format
+msgid "Downloading {name}…"
+msgstr "{név} letöltése…"
+# 
+# File: biglinux-browser-selector/usr/share/biglinux/browser_selector/widgets.py, line: 779
+#, python-brace-format
+msgid "Downloading… {pct}% ({speed})"
+msgstr "Letöltés… {pct}% ({speed})"
+# 
+# File: biglinux-browser-selector/usr/share/biglinux/browser_selector/widgets.py, line: 789
+msgid "Hide details"
+msgstr "Részletek elrejtése"
+# 
+# File: biglinux-browser-selector/usr/share/biglinux/browser_selector/widgets.py, line: 793
+msgid "Hide installation details"
+msgstr "Telepítési részletek elrejtése"
+# 
+# File: biglinux-browser-selector/usr/share/biglinux/browser_selector/widgets.py, line: 802
+msgid "Cancelling…"
+msgstr "Mégse…"
+# 
+# File: biglinux-browser-selector/usr/share/biglinux/browser_selector/widgets.py, line: 803
+msgid "Cancelling installation…"
+msgstr "Telepítés megszakítása…"
+# 
+# File: biglinux-browser-selector/usr/share/biglinux/browser_selector/window.py, line: 144
+msgid "In search of the perfect system!"
+msgstr "A tökéletes rendszer keresésében!"
+# 
+# File: biglinux-browser-selector/usr/share/biglinux/browser_selector/window.py, line: 149
+msgid "Welcome to your new system"
+msgstr "Üdvözöljük az új rendszerében"
+# 
+# File: biglinux-browser-selector/usr/share/biglinux/browser_selector/translatable_strings.py, line: 19
+msgid "Changing default browser"
+msgstr "Alapértelmezett böngésző módosítása"
+# 
+# File: biglinux-browser-selector/usr/share/biglinux/browser_selector/translatable_strings.py, line: 17
+#, python-format
+msgid "Setting %s as default…"
+msgstr "%s alapértelmezettként beállítva…"
+# 
+# File: biglinux-browser-selector/usr/share/biglinux/browser_selector/translatable_strings.py, line: 18
+#, python-format
+msgid "%s set as default"
+msgstr "%s alapértelmezettként beállítva"
+# 
+# File: biglinux-browser-selector/usr/share/biglinux/browser_selector/translatable_strings.py, line: 16
+msgid "Still working…"
+msgstr "Még dolgozik…"
+# 
+# File: biglinux-browser-selector/usr/share/biglinux/browser_selector/window.py, line: 521
+msgid "Browser Selector"
+msgstr "Böngészőválasztó"
+# 
+# File: biglinux-browser-selector/usr/share/biglinux/browser_selector/window.py, line: 542
+msgid "Previous page"
+msgstr "Előző oldal"
+# 
+# File: biglinux-browser-selector/usr/share/biglinux/browser_selector/window.py, line: 553
+# File: biglinux-browser-selector/usr/share/biglinux/browser_selector/window.py, line: 576
+msgid "Next page"
+msgstr "Következő oldal"

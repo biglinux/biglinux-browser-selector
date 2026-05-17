@@ -16,34 +16,242 @@ msgstr ""
 "X-Generator: attranslate\n"
 # 
 # File: biglinux-browser-selector/usr/share/biglinux/browser_selector/translatable_strings.py, line: 13
+msgid "Accessibility"
+msgstr "Tilgængelighed"
+# 
+# File: biglinux-browser-selector/usr/share/biglinux/browser_selector/translatable_strings.py, line: 14
+msgid "AppStore"
+msgstr "App Store"
+# 
+# File: biglinux-browser-selector/usr/share/biglinux/browser_selector/translatable_strings.py, line: 15
+msgid "Ashy Terminal"
+msgstr "Ashy Terminal"
+# 
+# File: biglinux-browser-selector/usr/share/biglinux/browser_selector/translatable_strings.py, line: 16
+msgid "Audio Converter"
+msgstr "Lydkonverterer"
+# 
+# File: biglinux-browser-selector/usr/share/biglinux/browser_selector/translatable_strings.py, line: 17
+msgid "Big Store"
+msgstr "Stor med stort udvalg"
+# 
+# File: biglinux-browser-selector/usr/share/biglinux/browser_selector/translatable_strings.py, line: 18
+msgid "BigLinux Info"
+msgstr "BigLinux Info"
+# 
+# File: biglinux-browser-selector/usr/share/biglinux/browser_selector/translatable_strings.py, line: 19
+msgid "BigLinux Settings"
+msgstr "BigLinux Indstillinger"
+# 
+# File: biglinux-browser-selector/usr/share/biglinux/browser_selector/translatable_strings.py, line: 20
+msgid "Brave"
+msgstr "Brave"
+# 
+# File: biglinux-browser-selector/usr/share/biglinux/browser_selector/translatable_strings.py, line: 21
+msgid "Choose Your Avatar"
+msgstr "Vælg din avatar"
+# 
+# File: biglinux-browser-selector/usr/share/biglinux/browser_selector/translatable_strings.py, line: 13
 msgid "Choose your default browser"
 msgstr "Vælg din standardbrowser"
 # 
-# File: biglinux-browser-selector/usr/share/biglinux/browser_selector/translatable_strings.py, line: 14
-msgid "Select and install the web browser of your choice."
-msgstr "Vælg og installer den webbrowser, du ønsker."
+# File: biglinux-browser-selector/usr/share/biglinux/browser_selector/translatable_strings.py, line: 23
+msgid "Chrome"
+msgstr "Chrome"
 # 
-# File: biglinux-browser-selector/usr/share/biglinux/browser_selector/translatable_strings.py, line: 15
-msgid "Installing"
-msgstr "Installerer"
+# File: biglinux-browser-selector/usr/share/biglinux/browser_selector/translatable_strings.py, line: 24
+msgid "Chromium"
+msgstr "Chromium"
 # 
-# File: biglinux-browser-selector/usr/share/biglinux/browser_selector/translatable_strings.py, line: 16
-msgid "Still working…"
-msgstr "Arbejder stadig…"
+# File: biglinux-browser-selector/usr/share/biglinux/browser_selector/translatable_strings.py, line: 25
+msgid "Configure voice"
+msgstr "Konfigurer stemme"
 # 
-# File: biglinux-browser-selector/usr/share/biglinux/browser_selector/translatable_strings.py, line: 17
+# File: biglinux-browser-selector/usr/share/biglinux/browser_selector/translatable_strings.py, line: 26
+msgid "Control Center"
+msgstr "Kontrolcenter"
+# 
+# File: biglinux-browser-selector/usr/share/biglinux/browser_selector/translatable_strings.py, line: 27
+msgid "Discover some features"
+msgstr "Opdag nogle funktioner"
+# 
+# File: biglinux-browser-selector/usr/share/biglinux/browser_selector/translatable_strings.py, line: 28
+msgid "Display Settings"
+msgstr "Skærmindstillinger"
+# 
+# File: biglinux-browser-selector/usr/share/biglinux/browser_selector/translatable_strings.py, line: 29
+msgid "Donate"
+msgstr "Donér"
+# 
+# File: biglinux-browser-selector/usr/share/biglinux/browser_selector/translatable_strings.py, line: 30
+msgid "Donation and Social Networks"
+msgstr "Donation og Sociale Netværk"
+# 
+# File: biglinux-browser-selector/usr/share/biglinux/browser_selector/translatable_strings.py, line: 31
+msgid "Driver Installation and Hardware Information"
+msgstr "Driverinstallation og hardwareinformation"
+# 
+# File: biglinux-browser-selector/usr/share/biglinux/browser_selector/translatable_strings.py, line: 32
+msgid "Driver Manager"
+msgstr "Driveradministrator"
+# 
+# File: biglinux-browser-selector/usr/share/biglinux/browser_selector/translatable_strings.py, line: 33
+msgid "Edge"
+msgstr "Kantkant"
+# 
+# File: biglinux-browser-selector/usr/share/biglinux/browser_selector/translatable_strings.py, line: 34
+msgid "Falkon"
+msgstr "Falkon"
+# 
+# File: biglinux-browser-selector/usr/share/biglinux/browser_selector/translatable_strings.py, line: 35
+msgid "Family Safety"
+msgstr "Familie Sikkerhed"
+# 
+# File: biglinux-browser-selector/usr/share/biglinux/browser_selector/translatable_strings.py, line: 36
+msgid "Firefox"
+msgstr "Firefox"
+# 
+# File: biglinux-browser-selector/usr/share/biglinux/browser_selector/translatable_strings.py, line: 37
+msgid "Forum"
+msgstr "Forum"
+# 
+# File: biglinux-browser-selector/usr/share/biglinux/browser_selector/translatable_strings.py, line: 38
+msgid "Initial Settings"
+msgstr "Indledende indstillinger"
+# 
+# File: biglinux-browser-selector/usr/share/biglinux/browser_selector/translatable_strings.py, line: 39
+msgid "Install or Remove Drivers and Firmwares easily."
+msgstr "Installer eller fjern drivere og firmware nemt."
+# 
+# File: biglinux-browser-selector/usr/share/biglinux/browser_selector/translatable_strings.py, line: 40
+msgid "KDE Connect"
+msgstr "KDE Connect"
+# 
+# File: biglinux-browser-selector/usr/share/biglinux/browser_selector/translatable_strings.py, line: 41
+msgid ""
+"KDE Connect is an application that facilitates wireless communication and data transfer between "
+"devices on local networks. Available on the Google Play Store for Android and the Apple Store for "
+"iPhone."
+msgstr ""
+"KDE Connect er en applikation, der muliggør trådløs kommunikation og dataoverførsel mellem enheder "
+"på lokale netværk. Tilgængelig i Google Play Butik til Android og Apple Butik til iPhone."
+# 
+# File: biglinux-browser-selector/usr/share/biglinux/browser_selector/translatable_strings.py, line: 42
+msgid "Kernel Manager"
+msgstr "Kernel Manager"
+# 
+# File: biglinux-browser-selector/usr/share/biglinux/browser_selector/translatable_strings.py, line: 43
+msgid "Language Packs"
+msgstr "Sprogpakker"
+# 
+# File: biglinux-browser-selector/usr/share/biglinux/browser_selector/translatable_strings.py, line: 44
+msgid "Librewolf"
+msgstr "Librewolf"
+# 
+# File: biglinux-browser-selector/usr/share/biglinux/browser_selector/translatable_strings.py, line: 45
+msgid "Network Info"
+msgstr "Netværksinfo"
+# 
+# File: biglinux-browser-selector/usr/share/biglinux/browser_selector/translatable_strings.py, line: 46
+msgid "Noise Reduction"
+msgstr "Støjreduktion"
+# 
+# File: biglinux-browser-selector/usr/share/biglinux/browser_selector/translatable_strings.py, line: 47
+msgid "OCR to PDF"
+msgstr "OCR til PDF"
+# 
+# File: biglinux-browser-selector/usr/share/biglinux/browser_selector/translatable_strings.py, line: 48
+msgid "Open Parental Controls"
+msgstr "Åbn forældrekontrol"
+# 
+# File: biglinux-browser-selector/usr/share/biglinux/browser_selector/translatable_strings.py, line: 49
+msgid "Opera"
+msgstr "Opera"
+# 
+# File: biglinux-browser-selector/usr/share/biglinux/browser_selector/translatable_strings.py, line: 50
+msgid "Our platform is collaborative, join this evolution."
+msgstr "Vores platform er samarbejdsvillig, deltag i denne udvikling."
+# 
+# File: biglinux-browser-selector/usr/share/biglinux/browser_selector/translatable_strings.py, line: 51
+msgid "PlayStore"
+msgstr "PlayStore"
+# 
+# File: biglinux-browser-selector/usr/share/biglinux/browser_selector/translatable_strings.py, line: 52
+msgid "Printers"
+msgstr "Printere"
+# 
+# File: biglinux-browser-selector/usr/share/biglinux/browser_selector/translatable_strings.py, line: 53
+msgid "Protect your children online. Set up supervised accounts, screen time, and content filters."
+msgstr "Beskyt dine børn online. Opsæt overvågede konti, skærmtid og indholdsfiltre."
+# 
+# File: biglinux-browser-selector/usr/share/biglinux/browser_selector/translatable_strings.py, line: 54
+msgid "Session and Themes"
+msgstr "Sessioner og Temaer"
+# 
+# File: biglinux-browser-selector/usr/share/biglinux/browser_selector/translatable_strings.py, line: 55
+msgid "Set your default browser."
+msgstr "Indstil din standardbrowser."
+# 
+# File: biglinux-browser-selector/usr/share/biglinux/browser_selector/translatable_strings.py, line: 56
+msgid "Telegram"
+msgstr "Telegram"
+# 
+# File: biglinux-browser-selector/usr/share/biglinux/browser_selector/translatable_strings.py, line: 57
+msgid "Time Shift"
+msgstr "Tidsforskydning"
+# 
+# File: biglinux-browser-selector/usr/share/biglinux/browser_selector/translatable_strings.py, line: 58
+msgid "Video Converter"
+msgstr "Videokonverter"
+# 
+# File: biglinux-browser-selector/usr/share/biglinux/browser_selector/translatable_strings.py, line: 59
+msgid "Vivaldi"
+msgstr "Vivaldi"
+# 
+# File: biglinux-browser-selector/usr/share/biglinux/browser_selector/translatable_strings.py, line: 60
+msgid "We provide comprehensive settings for you to select in an extremely simple way."
+msgstr "Vi tilbyder omfattende indstillinger, som du kan vælge på en ekstremt enkel måde."
+# 
+# File: biglinux-browser-selector/usr/share/biglinux/browser_selector/translatable_strings.py, line: 61
+msgid "WebApps"
+msgstr "WebApps"
+# 
+# File: biglinux-browser-selector/usr/share/biglinux/browser_selector/translatable_strings.py, line: 62
+msgid "YouTube"
+msgstr "YouTube"
+# 
+# File: biglinux-browser-selector/usr/share/biglinux/browser_selector/translatable_strings.py, line: 63
+msgid "Your donation is very important for the project and follow us on social media."
+msgstr "Din donation er meget vigtig for projektet, og følg os på sociale medier."
+# 
+# File: biglinux-browser-selector/usr/share/biglinux/browser_selector/translatable_strings.py, line: 64
+msgid "Zen Browser"
+msgstr "Zen Browser"
+# 
+# File: biglinux-browser-selector/usr/share/biglinux/browser_selector/widgets.py, line: 120
+msgid "Kernel"
+msgstr "Kerner"
+# 
+# File: biglinux-browser-selector/usr/share/biglinux/browser_selector/widgets.py, line: 121
+msgid "Desktop"
+msgstr "Skrivebord"
+# 
+# File: biglinux-browser-selector/usr/share/biglinux/browser_selector/widgets.py, line: 123
+msgid "Display"
+msgstr "Visning"
+# 
+# File: biglinux-browser-selector/usr/share/biglinux/browser_selector/widgets.py, line: 232
 #, python-format
-msgid "Setting %s as default…"
-msgstr "Indstiller %s som standard…"
+msgid "Could not open %s. It may not be installed."
+msgstr "Kunne ikke åbne %s. Det er muligvis ikke installeret."
 # 
-# File: biglinux-browser-selector/usr/share/biglinux/browser_selector/translatable_strings.py, line: 18
-#, python-format
-msgid "%s set as default"
-msgstr "%s indstillet som standard"
+# File: biglinux-browser-selector/usr/share/biglinux/browser_selector/widgets.py, line: 241
+msgid "Could not open application"
+msgstr "Kunne ikke åbne applikationen"
 # 
-# File: biglinux-browser-selector/usr/share/biglinux/browser_selector/translatable_strings.py, line: 19
-msgid "Changing default browser"
-msgstr "Ændre standardbrowser"
+# File: biglinux-browser-selector/usr/share/biglinux/browser_selector/widgets.py, line: 244
+# 
+# File: biglinux-browser-selector/usr/share/biglinux/browser_selector/widgets.py, line: 244
 # 
 # #-#-#-#-#  biglinux-browser-selector.pot (biglinux-browser-selector)  #-#-#-#-#
 # 
@@ -66,14 +274,143 @@ msgstr "ikke installeret"
 msgid "default browser"
 msgstr "standardbrowser"
 # 
-# File: biglinux-browser-selector/usr/share/biglinux/browser_selector/translatable_strings.py, line: 23
-msgid "busy"
-msgstr "optaget"
+# File: biglinux-browser-selector/usr/share/biglinux/browser_selector/widgets.py, line: 489
+#, python-format
+msgid "Installing %s…"
+msgstr "Installerer %s…"
+# 
+# File: biglinux-browser-selector/usr/share/biglinux/browser_selector/widgets.py, line: 495
+msgid "Preparing download…"
+msgstr "Forbereder download…"
+# 
+# File: biglinux-browser-selector/usr/share/biglinux/browser_selector/widgets.py, line: 522
+# File: biglinux-browser-selector/usr/share/biglinux/browser_selector/widgets.py, line: 789
+msgid "View details"
+msgstr "Se detaljer"
+# 
+# File: biglinux-browser-selector/usr/share/biglinux/browser_selector/widgets.py, line: 529
+# File: biglinux-browser-selector/usr/share/biglinux/browser_selector/widgets.py, line: 795
+msgid "Show installation details"
+msgstr "Vis visningsdetaljer for installation."
+# 
+# File: biglinux-browser-selector/usr/share/biglinux/browser_selector/widgets.py, line: 557
+msgid "Installation log output"
+msgstr "Installationslogoutput"
 # 
 # File: biglinux-browser-selector/usr/share/biglinux/browser_selector/widgets.py, line: 199
 msgid "Cancel"
 msgstr "Annuller"
 # 
+# File: biglinux-browser-selector/usr/share/biglinux/browser_selector/widgets.py, line: 580
+msgid "Cancel installation"
+msgstr "Annuller installation"
+# 
 # File: biglinux-browser-selector/usr/share/biglinux/browser_selector/widgets.py, line: 205
 msgid "Done"
 msgstr "Udført"
+# 
+# File: biglinux-browser-selector/usr/share/biglinux/browser_selector/widgets.py, line: 590
+msgid "Close installation panel"
+msgstr "Luk installationspanelet"
+# 
+# File: biglinux-browser-selector/usr/share/biglinux/browser_selector/widgets.py, line: 598
+#, python-format
+msgid "Installing %s"
+msgstr "Installerer %s"
+# 
+# File: biglinux-browser-selector/usr/share/biglinux/browser_selector/widgets.py, line: 667
+msgid "It has been set as your default browser."
+msgstr "Det er blevet indstillet som din standardbrowser."
+# 
+# File: biglinux-browser-selector/usr/share/biglinux/browser_selector/widgets.py, line: 668
+#, python-format
+msgid "%s installed successfully!"
+msgstr "%s installeret med succes!"
+# 
+# File: biglinux-browser-selector/usr/share/biglinux/browser_selector/widgets.py, line: 676
+#, python-format
+msgid "%s installed successfully"
+msgstr "%s installeret med succes"
+# 
+# File: biglinux-browser-selector/usr/share/biglinux/browser_selector/widgets.py, line: 684
+#, python-format
+msgid "Failed to install %s"
+msgstr "Mislykkedes med at installere %s"
+# 
+# File: biglinux-browser-selector/usr/share/biglinux/browser_selector/widgets.py, line: 687
+msgid "Check the details below for more information."
+msgstr "Tjek detaljerne nedenfor for mere information."
+# 
+# File: biglinux-browser-selector/usr/share/biglinux/browser_selector/widgets.py, line: 694
+#, python-format
+msgid "Installation of %s failed"
+msgstr "Installation af %s mislykkedes"
+# 
+# File: biglinux-browser-selector/usr/share/biglinux/browser_selector/widgets.py, line: 756
+msgid "Cannot cancel during installation"
+msgstr "Kan ikke annullere under installationen"
+# 
+# File: biglinux-browser-selector/usr/share/biglinux/browser_selector/widgets.py, line: 767
+#, python-brace-format
+msgid "Downloading {name}…"
+msgstr "Downloader {name}…"
+# 
+# File: biglinux-browser-selector/usr/share/biglinux/browser_selector/widgets.py, line: 779
+#, python-brace-format
+msgid "Downloading… {pct}% ({speed})"
+msgstr "Downloader… {pct}% ({speed})"
+# 
+# File: biglinux-browser-selector/usr/share/biglinux/browser_selector/widgets.py, line: 789
+msgid "Hide details"
+msgstr "Skjul detaljer"
+# 
+# File: biglinux-browser-selector/usr/share/biglinux/browser_selector/widgets.py, line: 793
+msgid "Hide installation details"
+msgstr "Skjul installationsdetaljer"
+# 
+# File: biglinux-browser-selector/usr/share/biglinux/browser_selector/widgets.py, line: 802
+msgid "Cancelling…"
+msgstr "Annullerer…"
+# 
+# File: biglinux-browser-selector/usr/share/biglinux/browser_selector/widgets.py, line: 803
+msgid "Cancelling installation…"
+msgstr "Afbryder installation…"
+# 
+# File: biglinux-browser-selector/usr/share/biglinux/browser_selector/window.py, line: 144
+msgid "In search of the perfect system!"
+msgstr "På jagt efter det perfekte system!"
+# 
+# File: biglinux-browser-selector/usr/share/biglinux/browser_selector/window.py, line: 149
+msgid "Welcome to your new system"
+msgstr "Velkommen til dit nye system"
+# 
+# File: biglinux-browser-selector/usr/share/biglinux/browser_selector/translatable_strings.py, line: 19
+msgid "Changing default browser"
+msgstr "Ændre standardbrowser"
+# 
+# File: biglinux-browser-selector/usr/share/biglinux/browser_selector/translatable_strings.py, line: 17
+#, python-format
+msgid "Setting %s as default…"
+msgstr "Indstiller %s som standard…"
+# 
+# File: biglinux-browser-selector/usr/share/biglinux/browser_selector/translatable_strings.py, line: 18
+#, python-format
+msgid "%s set as default"
+msgstr "%s indstillet som standard"
+# 
+# File: biglinux-browser-selector/usr/share/biglinux/browser_selector/translatable_strings.py, line: 16
+msgid "Still working…"
+msgstr "Arbejder stadig…"
+# 
+# File: biglinux-browser-selector/usr/share/biglinux/browser_selector/window.py, line: 521
+msgid "Browser Selector"
+msgstr "Browser Vælger"
+# 
+# File: biglinux-browser-selector/usr/share/biglinux/browser_selector/window.py, line: 542
+msgid "Previous page"
+msgstr "Forrige side"
+# 
+# File: biglinux-browser-selector/usr/share/biglinux/browser_selector/window.py, line: 553
+# File: biglinux-browser-selector/usr/share/biglinux/browser_selector/window.py, line: 576
+msgid "Next page"
+msgstr "Næste side"
