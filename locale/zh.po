@@ -74,4 +74,4 @@ msgstr "忙碌"
 msgid "Cancel"
 msgstr "取消"
 # 
-# File: biglinux-browser-selector/usr/share/biglinux/browser_selector/widgets.py, line: 205
+# File: biglinux-browser-selector/usr/share/biglinux/browser_selector/widgets.py, line: 207

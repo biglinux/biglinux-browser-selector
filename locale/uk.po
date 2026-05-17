@@ -74,4 +74,4 @@ msgstr "occupied"
 msgid "Cancel"
 msgstr "Cancelar"
 # 
-# File: biglinux-browser-selector/usr/share/biglinux/browser_selector/widgets.py, line: 205
+# File: biglinux-browser-selector/usr/share/biglinux/browser_selector/widgets.py, line: 207

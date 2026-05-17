@@ -55,7 +55,7 @@ msgstr  ""
 # #-#-#-#-#  biglinux-browser-selector.pot (biglinux-browser-selector)  #-#-#-#-#
 #
 # File: biglinux-browser-selector/usr/share/biglinux/browser_selector/translatable_strings.py, line: 20
-# File: biglinux-browser-selector/usr/share/biglinux/browser_selector/widgets.py, line: 97
+# File: biglinux-browser-selector/usr/share/biglinux/browser_selector/widgets.py, line: 99
 msgid   "installed"
 msgstr  ""
 
@@ -63,7 +63,7 @@ msgstr  ""
 # #-#-#-#-#  biglinux-browser-selector.pot (biglinux-browser-selector)  #-#-#-#-#
 #
 # File: biglinux-browser-selector/usr/share/biglinux/browser_selector/translatable_strings.py, line: 21
-# File: biglinux-browser-selector/usr/share/biglinux/browser_selector/widgets.py, line: 99
+# File: biglinux-browser-selector/usr/share/biglinux/browser_selector/widgets.py, line: 101
 msgid   "not installed"
 msgstr  ""
 
@@ -71,7 +71,7 @@ msgstr  ""
 # #-#-#-#-#  biglinux-browser-selector.pot (biglinux-browser-selector)  #-#-#-#-#
 #
 # File: biglinux-browser-selector/usr/share/biglinux/browser_selector/translatable_strings.py, line: 22
-# File: biglinux-browser-selector/usr/share/biglinux/browser_selector/widgets.py, line: 101
+# File: biglinux-browser-selector/usr/share/biglinux/browser_selector/widgets.py, line: 103
 msgid   "default browser"
 msgstr  ""
 
@@ -81,11 +81,11 @@ msgid   "busy"
 msgstr  ""
 
 #
-# File: biglinux-browser-selector/usr/share/biglinux/browser_selector/widgets.py, line: 199
+# File: biglinux-browser-selector/usr/share/biglinux/browser_selector/widgets.py, line: 201
 msgid   "Cancel"
 msgstr  ""
 
 #
-# File: biglinux-browser-selector/usr/share/biglinux/browser_selector/widgets.py, line: 205
+# File: biglinux-browser-selector/usr/share/biglinux/browser_selector/widgets.py, line: 207
 msgid   "Done"
 msgstr  ""
