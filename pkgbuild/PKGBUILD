@@ -17,16 +17,18 @@ if [ -e "${pkgname}.install" ]; then
 fi
 
 package() {
+    InternalDir="${srcdir}/${pkgname}"
+
     # Copy files
-    if [ -d "${srcdir}/${pkgname}/usr" ]; then
-        cp -r "${srcdir}/${pkgname}/usr" "${pkgdir}/"
+    if [ -d "${InternalDir}/usr" ]; then
+        cp -r "${InternalDir}/usr" "${pkgdir}/"
     fi
 
-    if [ -d "${srcdir}/${pkgname}/etc" ]; then
-        cp -r "${srcdir}/${pkgname}/etc" "${pkgdir}/"
+    if [ -d "${InternalDir}/etc" ]; then
+        cp -r "${InternalDir}/etc" "${pkgdir}/"
     fi
 
-    if [ -d "${srcdir}/${pkgname}/opt" ]; then
-        cp -r "${srcdir}/${pkgname}/opt" "${pkgdir}/"
+    if [ -d "${InternalDir}/opt" ]; then
+        cp -r "${InternalDir}/opt" "${pkgdir}/"
     fi
 }
