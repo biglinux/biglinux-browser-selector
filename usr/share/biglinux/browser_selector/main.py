@@ -1,5 +1,9 @@
 #!/usr/bin/env python3
-"""BigLinux Browser Selector — Entry point."""
+
+"""BigLinux Browser Selector — Entry point.
+
+Simplified version with only browser selection functionality.
+"""
 
 from __future__ import annotations
 

@@ -1,9 +1,8 @@
 - title: "Choose your default browser"
-  subtitle: "Select and install the web browser of your choice."
+  subtitle: "Set your default browser."
   icon: "internet-web-browser-symbolic"
   page_type: "browsers"
   actions:
-
     - label: "Brave"
       package: "brave"
       variants:

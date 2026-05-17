@@ -1,4 +1,7 @@
-"""BigLinux Browser Selector — Application class."""
+"""BigLinux Browser Selector — Application class.
+
+Simplified version with only browser selection functionality.
+"""
 
 from __future__ import annotations
 

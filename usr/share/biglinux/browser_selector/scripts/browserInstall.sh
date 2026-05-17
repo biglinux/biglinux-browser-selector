@@ -5,7 +5,7 @@
 # No Zenity or GUI — the welcome app handles the UI.
 
 browser="$1"
-log="/var/log/biglinux-browser-selector.log"
+log="/var/log/biglinux-welcome.log"
 
 # Force English output so progress parsing works regardless of system locale
 export LANGUAGE=C
