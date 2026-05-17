@@ -17,7 +17,12 @@ if [ -e "${pkgname}.install" ]; then
 fi
 
 package() {
-    InternalDir="${srcdir}/${pkgname}"
+    # Verify default folder
+    if [ -d "${srcdir}/${pkgname}/${pkgname}" ]; then
+        InternalDir="${srcdir}/${pkgname}/${pkgname}"
+    else
+        InternalDir="${srcdir}/${pkgname}"
+    fi
 
     # Copy files
     if [ -d "${InternalDir}/usr" ]; then
