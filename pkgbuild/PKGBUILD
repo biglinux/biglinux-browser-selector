@@ -9,8 +9,11 @@ pkgdesc="Choose your default web browser with a modern GTK4 interface."
 depends=('gtk4' 'python' 'polkit' 'python-yaml')
 url="https://github.com/biglinux/$pkgname"
 
-source=("$pkgname")
+source=("git+${url}.git")
 md5sums=(SKIP)
+if [ -e "${pkgname}.install" ];then
+    install=${pkgname}.install
+fi
 
 if [ -e "${pkgname}.install" ]; then
     install=${pkgname}.install
