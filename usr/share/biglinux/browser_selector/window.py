@@ -21,7 +21,7 @@ import yaml  # noqa: E402
 from gi.repository import Adw, GdkPixbuf, GLib, Gtk  # noqa: E402
 
 from utils import APP_PATH, get_logo_path, load_browser_icon  # noqa: E402
-from widgets import BrowserCard, ProgressDots  # noqa: E402
+from widgets import AnimatedLogo, BrowserCard, ProgressDots  # noqa: E402
 
 _ = gettext.gettext
 
@@ -598,81 +598,3 @@ class BrowserSelectorWindow(Adw.ApplicationWindow):
         self.progress.set_page(self.current_page)
         self._update_nav()
 
-
-# ---------------------------------------------------------------------------
-# AnimatedLogo
-# ---------------------------------------------------------------------------
-class AnimatedLogo(Gtk.DrawingArea):
-    """Animated glow effect around logo using Cairo."""
-
-    def __init__(self, logo_widget: Gtk.Widget) -> None:
-        super().__init__()
-        self.logo_widget = logo_widget
-        self.time = 0.0
-        self.particles: list[dict] = []
-
-        for i in range(8):
-            angle = (i / 8) * 2 * math.pi
-            self.particles.append({
-                "angle": angle,
-                "speed": 0.3 + (i % 3) * 0.1,
-                "radius": 75 + (i % 2) * 12,
-                "size": 3 + (i % 3),
-                "alpha": 0.3 + (i % 3) * 0.15,
-            })
-
-        self.set_size_request(185, 185)
-        self.set_draw_func(self._draw)
-        # Accessibility: hide decorative element from screen readers
-        self.update_property([Gtk.AccessibleProperty.LABEL], ["BigLinux animated logo background"])
-        self.timer_id = GLib.timeout_add(50, self._animate)
-        self.connect("unrealize", lambda _w: self.stop())
-
-    def _animate(self) -> bool:
-        import math
-        self.time += 0.05
-        for p in self.particles:
-            p["angle"] += p["speed"] * 0.05
-        self.queue_draw()
-        return True
-
-    def _draw(
-        self,
-        _area: Gtk.DrawingArea,
-        cr,
-        width: int,
-        height: int,
-    ) -> None:
-        import math
-        cx, cy = width / 2, height / 2
-
-        r, g, b = 0.33, 0.56, 0.85
-        accent = Adw.StyleManager.get_default().get_accent_color()
-        if accent is not None:
-            rgba = accent.to_rgba()
-            r, g, b = rgba.red, rgba.green, rgba.blue
-
-        glow_alpha = 0.08 + 0.04 * math.sin(self.time * 1.5)
-        for radius in [60, 72, 85]:
-            alpha = glow_alpha * (1 - (radius - 60) / 35)
-            cr.set_source_rgba(r, g, b, alpha)
-            cr.arc(cx, cy, radius, 0, 2 * math.pi)
-            cr.set_line_width(2)
-            cr.stroke()
-
-        for p in self.particles:
-            px = cx + math.cos(p["angle"]) * p["radius"]
-            py = cy + math.sin(p["angle"]) * p["radius"]
-
-            cr.set_source_rgba(r, g, b, p["alpha"] * 0.5)
-            cr.arc(px, py, p["size"] + 2, 0, 2 * math.pi)
-            cr.fill()
-
-            cr.set_source_rgba(r, g, b, p["alpha"])
-            cr.arc(px, py, p["size"], 0, 2 * math.pi)
-            cr.fill()
-
-    def stop(self) -> None:
-        if self.timer_id:
-            GLib.source_remove(self.timer_id)
-            self.timer_id = None
