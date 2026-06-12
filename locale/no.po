@@ -15,6 +15,201 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "X-Generator: attranslate\n"
 # 
+# File: biglinux-browser-selector/usr/share/biglinux/browser_selector/widgets.py, line: 120
+msgid "Kernel"
+msgstr "Kjerne"
+# 
+# File: biglinux-browser-selector/usr/share/biglinux/browser_selector/widgets.py, line: 121
+msgid "Desktop"
+msgstr "Skrivebord"
+# 
+# File: biglinux-browser-selector/usr/share/biglinux/browser_selector/widgets.py, line: 123
+msgid "Display"
+msgstr "Visning"
+# 
+# File: biglinux-browser-selector/usr/share/biglinux/browser_selector/widgets.py, line: 232
+#, python-format
+msgid "Could not open %s. It may not be installed."
+msgstr "Kunne ikke åpne %s. Det kan hende det ikke er installert."
+# 
+# File: biglinux-browser-selector/usr/share/biglinux/browser_selector/widgets.py, line: 241
+msgid "Could not open application"
+msgstr "Kunne ikke åpne applikasjonen"
+# 
+# File: biglinux-browser-selector/usr/share/biglinux/browser_selector/widgets.py, line: 244
+# 
+# File: biglinux-browser-selector/usr/share/biglinux/browser_selector/widgets.py, line: 244
+# 
+# File: biglinux-browser-selector/usr/share/biglinux/browser_selector/widgets.py, line: 244
+# 
+# File: biglinux-browser-selector/usr/share/biglinux/browser_selector/widgets.py, line: 244
+# 
+# File: biglinux-browser-selector/usr/share/biglinux/browser_selector/widgets.py, line: 244
+# 
+# File: biglinux-browser-selector/usr/share/biglinux/browser_selector/widgets.py, line: 244
+# 
+# #-#-#-#-#  biglinux-browser-selector.pot (biglinux-browser-selector)  #-#-#-#-#
+# 
+# File: biglinux-browser-selector/usr/share/biglinux/browser_selector/translatable_strings.py, line: 20
+# File: biglinux-browser-selector/usr/share/biglinux/browser_selector/widgets.py, line: 97
+msgid "installed"
+msgstr "installert"
+# 
+# #-#-#-#-#  biglinux-browser-selector.pot (biglinux-browser-selector)  #-#-#-#-#
+# 
+# File: biglinux-browser-selector/usr/share/biglinux/browser_selector/translatable_strings.py, line: 21
+# File: biglinux-browser-selector/usr/share/biglinux/browser_selector/widgets.py, line: 99
+msgid "not installed"
+msgstr "ikke installert"
+# 
+# #-#-#-#-#  biglinux-browser-selector.pot (biglinux-browser-selector)  #-#-#-#-#
+# 
+# File: biglinux-browser-selector/usr/share/biglinux/browser_selector/translatable_strings.py, line: 22
+# File: biglinux-browser-selector/usr/share/biglinux/browser_selector/widgets.py, line: 101
+msgid "default browser"
+msgstr "standard nettleser"
+# 
+# File: biglinux-browser-selector/usr/share/biglinux/browser_selector/widgets.py, line: 489
+#, python-format
+msgid "Installing %s…"
+msgstr "Installerer %s…"
+# 
+# File: biglinux-browser-selector/usr/share/biglinux/browser_selector/widgets.py, line: 495
+msgid "Preparing download…"
+msgstr "Forbereder nedlasting…"
+# 
+# File: biglinux-browser-selector/usr/share/biglinux/browser_selector/widgets.py, line: 522
+# File: biglinux-browser-selector/usr/share/biglinux/browser_selector/widgets.py, line: 789
+msgid "View details"
+msgstr "Se detaljer"
+# 
+# File: biglinux-browser-selector/usr/share/biglinux/browser_selector/widgets.py, line: 529
+# File: biglinux-browser-selector/usr/share/biglinux/browser_selector/widgets.py, line: 795
+msgid "Show installation details"
+msgstr "Vis mostrar detalhes da instalação"
+# 
+# File: biglinux-browser-selector/usr/share/biglinux/browser_selector/widgets.py, line: 557
+msgid "Installation log output"
+msgstr "Installasjonsloggoutput"
+# 
+# File: biglinux-browser-selector/usr/share/biglinux/browser_selector/widgets.py, line: 199
+msgid "Cancel"
+msgstr "Avbryt"
+# 
+# File: biglinux-browser-selector/usr/share/biglinux/browser_selector/widgets.py, line: 580
+msgid "Cancel installation"
+msgstr "Avbryt installasjon"
+# 
+# File: biglinux-browser-selector/usr/share/biglinux/browser_selector/widgets.py, line: 205
+msgid "Done"
+msgstr "Ferdig"
+# 
+# File: biglinux-browser-selector/usr/share/biglinux/browser_selector/widgets.py, line: 590
+msgid "Close installation panel"
+msgstr "Lukk installasjonsvinduet"
+# 
+# File: biglinux-browser-selector/usr/share/biglinux/browser_selector/widgets.py, line: 598
+#, python-format
+msgid "Installing %s"
+msgstr "Installerer %s"
+# 
+# File: biglinux-browser-selector/usr/share/biglinux/browser_selector/widgets.py, line: 667
+msgid "It has been set as your default browser."
+msgstr "Det har blitt satt som din standard nettleser."
+# 
+# File: biglinux-browser-selector/usr/share/biglinux/browser_selector/widgets.py, line: 668
+#, python-format
+msgid "%s installed successfully!"
+msgstr "%s installert med suksess!"
+# 
+# File: biglinux-browser-selector/usr/share/biglinux/browser_selector/widgets.py, line: 676
+#, python-format
+msgid "%s installed successfully"
+msgstr "%s installert med suksess"
+# 
+# File: biglinux-browser-selector/usr/share/biglinux/browser_selector/widgets.py, line: 684
+#, python-format
+msgid "Failed to install %s"
+msgstr "Feil ved installasjon av %s"
+# 
+# File: biglinux-browser-selector/usr/share/biglinux/browser_selector/widgets.py, line: 687
+msgid "Check the details below for more information."
+msgstr "Sjekk detaljene nedenfor for mer informasjon."
+# 
+# File: biglinux-browser-selector/usr/share/biglinux/browser_selector/widgets.py, line: 694
+#, python-format
+msgid "Installation of %s failed"
+msgstr "Installasjonen av %s mislyktes"
+# 
+# File: biglinux-browser-selector/usr/share/biglinux/browser_selector/widgets.py, line: 756
+msgid "Cannot cancel during installation"
+msgstr "Kan ikke avbryte under installasjonen"
+# 
+# File: biglinux-browser-selector/usr/share/biglinux/browser_selector/widgets.py, line: 767
+#, python-brace-format
+msgid "Downloading {name}…"
+msgstr "Laster ned {name}…"
+# 
+# File: biglinux-browser-selector/usr/share/biglinux/browser_selector/widgets.py, line: 779
+#, python-brace-format
+msgid "Downloading… {pct}% ({speed})"
+msgstr "Laster ned… {pct}% ({speed})"
+# 
+# File: biglinux-browser-selector/usr/share/biglinux/browser_selector/widgets.py, line: 789
+msgid "Hide details"
+msgstr "Skjul detaljer"
+# 
+# File: biglinux-browser-selector/usr/share/biglinux/browser_selector/widgets.py, line: 793
+msgid "Hide installation details"
+msgstr "Skjul installasjonsdetaljer"
+# 
+# File: biglinux-browser-selector/usr/share/biglinux/browser_selector/widgets.py, line: 802
+msgid "Cancelling…"
+msgstr "Avbryter…"
+# 
+# File: biglinux-browser-selector/usr/share/biglinux/browser_selector/widgets.py, line: 803
+msgid "Cancelling installation…"
+msgstr "Avbryter installasjonen…"
+# 
+# File: biglinux-browser-selector/usr/share/biglinux/browser_selector/window.py, line: 144
+msgid "In search of the perfect system!"
+msgstr "På jakt etter det perfekte systemet!"
+# 
+# File: biglinux-browser-selector/usr/share/biglinux/browser_selector/window.py, line: 149
+msgid "Welcome to your new system"
+msgstr "Velkommen til ditt nye system"
+# 
+# File: biglinux-browser-selector/usr/share/biglinux/browser_selector/translatable_strings.py, line: 19
+msgid "Changing default browser"
+msgstr "Endre standard nettleser"
+# 
+# File: biglinux-browser-selector/usr/share/biglinux/browser_selector/translatable_strings.py, line: 17
+#, python-format
+msgid "Setting %s as default…"
+msgstr "Setter %s som standard…"
+# 
+# File: biglinux-browser-selector/usr/share/biglinux/browser_selector/translatable_strings.py, line: 18
+#, python-format
+msgid "%s set as default"
+msgstr "%s satt som standard"
+# 
+# File: biglinux-browser-selector/usr/share/biglinux/browser_selector/translatable_strings.py, line: 16
+msgid "Still working…"
+msgstr "Fortsatt arbeid…"
+# 
+# File: biglinux-browser-selector/usr/share/biglinux/browser_selector/window.py, line: 521
+msgid "Browser Selector"
+msgstr "Nettleservantvalg"
+# 
+# File: biglinux-browser-selector/usr/share/biglinux/browser_selector/window.py, line: 542
+msgid "Previous page"
+msgstr "Forrige side"
+# 
+# File: biglinux-browser-selector/usr/share/biglinux/browser_selector/window.py, line: 553
+# File: biglinux-browser-selector/usr/share/biglinux/browser_selector/window.py, line: 576
+msgid "Next page"
+msgstr "Neste lado"
+# 
 # File: biglinux-browser-selector/usr/share/biglinux/browser_selector/translatable_strings.py, line: 13
 msgid "Accessibility"
 msgstr "Tilgjengelighet"
@@ -227,194 +422,3 @@ msgstr "Din donation er veldig viktig for prosjektet og følg oss på sosiale me
 # File: biglinux-browser-selector/usr/share/biglinux/browser_selector/translatable_strings.py, line: 64
 msgid "Zen Browser"
 msgstr "Zen Nettleser"
-# 
-# File: biglinux-browser-selector/usr/share/biglinux/browser_selector/widgets.py, line: 120
-msgid "Kernel"
-msgstr "Kjerne"
-# 
-# File: biglinux-browser-selector/usr/share/biglinux/browser_selector/widgets.py, line: 121
-msgid "Desktop"
-msgstr "Skrivebord"
-# 
-# File: biglinux-browser-selector/usr/share/biglinux/browser_selector/widgets.py, line: 123
-msgid "Display"
-msgstr "Visning"
-# 
-# File: biglinux-browser-selector/usr/share/biglinux/browser_selector/widgets.py, line: 232
-#, python-format
-msgid "Could not open %s. It may not be installed."
-msgstr "Kunne ikke åpne %s. Det kan hende det ikke er installert."
-# 
-# File: biglinux-browser-selector/usr/share/biglinux/browser_selector/widgets.py, line: 241
-msgid "Could not open application"
-msgstr "Kunne ikke åpne applikasjonen"
-# 
-# File: biglinux-browser-selector/usr/share/biglinux/browser_selector/widgets.py, line: 244
-# 
-# File: biglinux-browser-selector/usr/share/biglinux/browser_selector/widgets.py, line: 244
-# 
-# File: biglinux-browser-selector/usr/share/biglinux/browser_selector/widgets.py, line: 244
-# 
-# File: biglinux-browser-selector/usr/share/biglinux/browser_selector/widgets.py, line: 244
-# 
-# #-#-#-#-#  biglinux-browser-selector.pot (biglinux-browser-selector)  #-#-#-#-#
-# 
-# File: biglinux-browser-selector/usr/share/biglinux/browser_selector/translatable_strings.py, line: 20
-# File: biglinux-browser-selector/usr/share/biglinux/browser_selector/widgets.py, line: 97
-msgid "installed"
-msgstr "installert"
-# 
-# #-#-#-#-#  biglinux-browser-selector.pot (biglinux-browser-selector)  #-#-#-#-#
-# 
-# File: biglinux-browser-selector/usr/share/biglinux/browser_selector/translatable_strings.py, line: 21
-# File: biglinux-browser-selector/usr/share/biglinux/browser_selector/widgets.py, line: 99
-msgid "not installed"
-msgstr "ikke installert"
-# 
-# #-#-#-#-#  biglinux-browser-selector.pot (biglinux-browser-selector)  #-#-#-#-#
-# 
-# File: biglinux-browser-selector/usr/share/biglinux/browser_selector/translatable_strings.py, line: 22
-# File: biglinux-browser-selector/usr/share/biglinux/browser_selector/widgets.py, line: 101
-msgid "default browser"
-msgstr "standard nettleser"
-# 
-# File: biglinux-browser-selector/usr/share/biglinux/browser_selector/widgets.py, line: 489
-#, python-format
-msgid "Installing %s…"
-msgstr "Installerer %s…"
-# 
-# File: biglinux-browser-selector/usr/share/biglinux/browser_selector/widgets.py, line: 495
-msgid "Preparing download…"
-msgstr "Forbereder nedlasting…"
-# 
-# File: biglinux-browser-selector/usr/share/biglinux/browser_selector/widgets.py, line: 522
-# File: biglinux-browser-selector/usr/share/biglinux/browser_selector/widgets.py, line: 789
-msgid "View details"
-msgstr "Se detaljer"
-# 
-# File: biglinux-browser-selector/usr/share/biglinux/browser_selector/widgets.py, line: 529
-# File: biglinux-browser-selector/usr/share/biglinux/browser_selector/widgets.py, line: 795
-msgid "Show installation details"
-msgstr "Vis mostrar detalhes da instalação"
-# 
-# File: biglinux-browser-selector/usr/share/biglinux/browser_selector/widgets.py, line: 557
-msgid "Installation log output"
-msgstr "Installasjonsloggoutput"
-# 
-# File: biglinux-browser-selector/usr/share/biglinux/browser_selector/widgets.py, line: 199
-msgid "Cancel"
-msgstr "Avbryt"
-# 
-# File: biglinux-browser-selector/usr/share/biglinux/browser_selector/widgets.py, line: 580
-msgid "Cancel installation"
-msgstr "Avbryt installasjon"
-# 
-# File: biglinux-browser-selector/usr/share/biglinux/browser_selector/widgets.py, line: 205
-msgid "Done"
-msgstr "Ferdig"
-# 
-# File: biglinux-browser-selector/usr/share/biglinux/browser_selector/widgets.py, line: 590
-msgid "Close installation panel"
-msgstr "Lukk installasjonsvinduet"
-# 
-# File: biglinux-browser-selector/usr/share/biglinux/browser_selector/widgets.py, line: 598
-#, python-format
-msgid "Installing %s"
-msgstr "Installerer %s"
-# 
-# File: biglinux-browser-selector/usr/share/biglinux/browser_selector/widgets.py, line: 667
-msgid "It has been set as your default browser."
-msgstr "Det har blitt satt som din standard nettleser."
-# 
-# File: biglinux-browser-selector/usr/share/biglinux/browser_selector/widgets.py, line: 668
-#, python-format
-msgid "%s installed successfully!"
-msgstr "%s installert med suksess!"
-# 
-# File: biglinux-browser-selector/usr/share/biglinux/browser_selector/widgets.py, line: 676
-#, python-format
-msgid "%s installed successfully"
-msgstr "%s installert med suksess"
-# 
-# File: biglinux-browser-selector/usr/share/biglinux/browser_selector/widgets.py, line: 684
-#, python-format
-msgid "Failed to install %s"
-msgstr "Feil ved installasjon av %s"
-# 
-# File: biglinux-browser-selector/usr/share/biglinux/browser_selector/widgets.py, line: 687
-msgid "Check the details below for more information."
-msgstr "Sjekk detaljene nedenfor for mer informasjon."
-# 
-# File: biglinux-browser-selector/usr/share/biglinux/browser_selector/widgets.py, line: 694
-#, python-format
-msgid "Installation of %s failed"
-msgstr "Installasjonen av %s mislyktes"
-# 
-# File: biglinux-browser-selector/usr/share/biglinux/browser_selector/widgets.py, line: 756
-msgid "Cannot cancel during installation"
-msgstr "Kan ikke avbryte under installasjonen"
-# 
-# File: biglinux-browser-selector/usr/share/biglinux/browser_selector/widgets.py, line: 767
-#, python-brace-format
-msgid "Downloading {name}…"
-msgstr "Laster ned {name}…"
-# 
-# File: biglinux-browser-selector/usr/share/biglinux/browser_selector/widgets.py, line: 779
-#, python-brace-format
-msgid "Downloading… {pct}% ({speed})"
-msgstr "Laster ned… {pct}% ({speed})"
-# 
-# File: biglinux-browser-selector/usr/share/biglinux/browser_selector/widgets.py, line: 789
-msgid "Hide details"
-msgstr "Skjul detaljer"
-# 
-# File: biglinux-browser-selector/usr/share/biglinux/browser_selector/widgets.py, line: 793
-msgid "Hide installation details"
-msgstr "Skjul installasjonsdetaljer"
-# 
-# File: biglinux-browser-selector/usr/share/biglinux/browser_selector/widgets.py, line: 802
-msgid "Cancelling…"
-msgstr "Avbryter…"
-# 
-# File: biglinux-browser-selector/usr/share/biglinux/browser_selector/widgets.py, line: 803
-msgid "Cancelling installation…"
-msgstr "Avbryter installasjonen…"
-# 
-# File: biglinux-browser-selector/usr/share/biglinux/browser_selector/window.py, line: 144
-msgid "In search of the perfect system!"
-msgstr "På jakt etter det perfekte systemet!"
-# 
-# File: biglinux-browser-selector/usr/share/biglinux/browser_selector/window.py, line: 149
-msgid "Welcome to your new system"
-msgstr "Velkommen til ditt nye system"
-# 
-# File: biglinux-browser-selector/usr/share/biglinux/browser_selector/translatable_strings.py, line: 19
-msgid "Changing default browser"
-msgstr "Endre standard nettleser"
-# 
-# File: biglinux-browser-selector/usr/share/biglinux/browser_selector/translatable_strings.py, line: 17
-#, python-format
-msgid "Setting %s as default…"
-msgstr "Setter %s som standard…"
-# 
-# File: biglinux-browser-selector/usr/share/biglinux/browser_selector/translatable_strings.py, line: 18
-#, python-format
-msgid "%s set as default"
-msgstr "%s satt som standard"
-# 
-# File: biglinux-browser-selector/usr/share/biglinux/browser_selector/translatable_strings.py, line: 16
-msgid "Still working…"
-msgstr "Fortsatt arbeid…"
-# 
-# File: biglinux-browser-selector/usr/share/biglinux/browser_selector/window.py, line: 521
-msgid "Browser Selector"
-msgstr "Nettleservantvalg"
-# 
-# File: biglinux-browser-selector/usr/share/biglinux/browser_selector/window.py, line: 542
-msgid "Previous page"
-msgstr "Forrige side"
-# 
-# File: biglinux-browser-selector/usr/share/biglinux/browser_selector/window.py, line: 553
-# File: biglinux-browser-selector/usr/share/biglinux/browser_selector/window.py, line: 576
-msgid "Next page"
-msgstr "Neste lado"

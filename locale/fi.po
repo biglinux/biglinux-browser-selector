@@ -15,6 +15,201 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "X-Generator: attranslate\n"
 # 
+# File: biglinux-browser-selector/usr/share/biglinux/browser_selector/widgets.py, line: 120
+msgid "Kernel"
+msgstr "Ydin"
+# 
+# File: biglinux-browser-selector/usr/share/biglinux/browser_selector/widgets.py, line: 121
+msgid "Desktop"
+msgstr "Työpöytä"
+# 
+# File: biglinux-browser-selector/usr/share/biglinux/browser_selector/widgets.py, line: 123
+msgid "Display"
+msgstr "Näyttö"
+# 
+# File: biglinux-browser-selector/usr/share/biglinux/browser_selector/widgets.py, line: 232
+#, python-format
+msgid "Could not open %s. It may not be installed."
+msgstr "Ei voitu avata %s. Se ei ehkä ole asennettu."
+# 
+# File: biglinux-browser-selector/usr/share/biglinux/browser_selector/widgets.py, line: 241
+msgid "Could not open application"
+msgstr "Voit avata sovellusta."
+# 
+# File: biglinux-browser-selector/usr/share/biglinux/browser_selector/widgets.py, line: 244
+# 
+# File: biglinux-browser-selector/usr/share/biglinux/browser_selector/widgets.py, line: 244
+# 
+# File: biglinux-browser-selector/usr/share/biglinux/browser_selector/widgets.py, line: 244
+# 
+# File: biglinux-browser-selector/usr/share/biglinux/browser_selector/widgets.py, line: 244
+# 
+# File: biglinux-browser-selector/usr/share/biglinux/browser_selector/widgets.py, line: 244
+# 
+# File: biglinux-browser-selector/usr/share/biglinux/browser_selector/widgets.py, line: 244
+# 
+# #-#-#-#-#  biglinux-browser-selector.pot (biglinux-browser-selector)  #-#-#-#-#
+# 
+# File: biglinux-browser-selector/usr/share/biglinux/browser_selector/translatable_strings.py, line: 20
+# File: biglinux-browser-selector/usr/share/biglinux/browser_selector/widgets.py, line: 97
+msgid "installed"
+msgstr "asennettu"
+# 
+# #-#-#-#-#  biglinux-browser-selector.pot (biglinux-browser-selector)  #-#-#-#-#
+# 
+# File: biglinux-browser-selector/usr/share/biglinux/browser_selector/translatable_strings.py, line: 21
+# File: biglinux-browser-selector/usr/share/biglinux/browser_selector/widgets.py, line: 99
+msgid "not installed"
+msgstr "ei asennettu"
+# 
+# #-#-#-#-#  biglinux-browser-selector.pot (biglinux-browser-selector)  #-#-#-#-#
+# 
+# File: biglinux-browser-selector/usr/share/biglinux/browser_selector/translatable_strings.py, line: 22
+# File: biglinux-browser-selector/usr/share/biglinux/browser_selector/widgets.py, line: 101
+msgid "default browser"
+msgstr "oletusselain"
+# 
+# File: biglinux-browser-selector/usr/share/biglinux/browser_selector/widgets.py, line: 489
+#, python-format
+msgid "Installing %s…"
+msgstr "Asennetaan %s…"
+# 
+# File: biglinux-browser-selector/usr/share/biglinux/browser_selector/widgets.py, line: 495
+msgid "Preparing download…"
+msgstr "Latauksen valmistelu…"
+# 
+# File: biglinux-browser-selector/usr/share/biglinux/browser_selector/widgets.py, line: 522
+# File: biglinux-browser-selector/usr/share/biglinux/browser_selector/widgets.py, line: 789
+msgid "View details"
+msgstr "Näytä tiedot"
+# 
+# File: biglinux-browser-selector/usr/share/biglinux/browser_selector/widgets.py, line: 529
+# File: biglinux-browser-selector/usr/share/biglinux/browser_selector/widgets.py, line: 795
+msgid "Show installation details"
+msgstr "Näytä asennustiedot"
+# 
+# File: biglinux-browser-selector/usr/share/biglinux/browser_selector/widgets.py, line: 557
+msgid "Installation log output"
+msgstr "Asennuslokin tuloste"
+# 
+# File: biglinux-browser-selector/usr/share/biglinux/browser_selector/widgets.py, line: 199
+msgid "Cancel"
+msgstr "Peruuta"
+# 
+# File: biglinux-browser-selector/usr/share/biglinux/browser_selector/widgets.py, line: 580
+msgid "Cancel installation"
+msgstr "Peruuta asennus"
+# 
+# File: biglinux-browser-selector/usr/share/biglinux/browser_selector/widgets.py, line: 205
+msgid "Done"
+msgstr "Valmis"
+# 
+# File: biglinux-browser-selector/usr/share/biglinux/browser_selector/widgets.py, line: 590
+msgid "Close installation panel"
+msgstr "Sulje asennuspaneeli"
+# 
+# File: biglinux-browser-selector/usr/share/biglinux/browser_selector/widgets.py, line: 598
+#, python-format
+msgid "Installing %s"
+msgstr "Asennetaan %s"
+# 
+# File: biglinux-browser-selector/usr/share/biglinux/browser_selector/widgets.py, line: 667
+msgid "It has been set as your default browser."
+msgstr "Se on asetettu oletusselaimeksesi."
+# 
+# File: biglinux-browser-selector/usr/share/biglinux/browser_selector/widgets.py, line: 668
+#, python-format
+msgid "%s installed successfully!"
+msgstr "%s asennettu onnistuneesti!"
+# 
+# File: biglinux-browser-selector/usr/share/biglinux/browser_selector/widgets.py, line: 676
+#, python-format
+msgid "%s installed successfully"
+msgstr "%s asennettu onnistuneesti"
+# 
+# File: biglinux-browser-selector/usr/share/biglinux/browser_selector/widgets.py, line: 684
+#, python-format
+msgid "Failed to install %s"
+msgstr "Asennus epäonnistui %s"
+# 
+# File: biglinux-browser-selector/usr/share/biglinux/browser_selector/widgets.py, line: 687
+msgid "Check the details below for more information."
+msgstr "Tarkista alla olevat tiedot saadaksesi lisätietoja."
+# 
+# File: biglinux-browser-selector/usr/share/biglinux/browser_selector/widgets.py, line: 694
+#, python-format
+msgid "Installation of %s failed"
+msgstr "%s asennus epäonnistui"
+# 
+# File: biglinux-browser-selector/usr/share/biglinux/browser_selector/widgets.py, line: 756
+msgid "Cannot cancel during installation"
+msgstr "Asennuksen aikana ei voi peruuttaa."
+# 
+# File: biglinux-browser-selector/usr/share/biglinux/browser_selector/widgets.py, line: 767
+#, python-brace-format
+msgid "Downloading {name}…"
+msgstr "Ladataan {name}…"
+# 
+# File: biglinux-browser-selector/usr/share/biglinux/browser_selector/widgets.py, line: 779
+#, python-brace-format
+msgid "Downloading… {pct}% ({speed})"
+msgstr "Lataaminen… {pct}% ({speed})"
+# 
+# File: biglinux-browser-selector/usr/share/biglinux/browser_selector/widgets.py, line: 789
+msgid "Hide details"
+msgstr "Piilota tiedot"
+# 
+# File: biglinux-browser-selector/usr/share/biglinux/browser_selector/widgets.py, line: 793
+msgid "Hide installation details"
+msgstr "Piilota asennustiedot"
+# 
+# File: biglinux-browser-selector/usr/share/biglinux/browser_selector/widgets.py, line: 802
+msgid "Cancelling…"
+msgstr "Peruuttaminen…"
+# 
+# File: biglinux-browser-selector/usr/share/biglinux/browser_selector/widgets.py, line: 803
+msgid "Cancelling installation…"
+msgstr "Asennus peruutetaan…"
+# 
+# File: biglinux-browser-selector/usr/share/biglinux/browser_selector/window.py, line: 144
+msgid "In search of the perfect system!"
+msgstr "Etsit täydellistä järjestelmää!"
+# 
+# File: biglinux-browser-selector/usr/share/biglinux/browser_selector/window.py, line: 149
+msgid "Welcome to your new system"
+msgstr "Tervetuloa uuteen järjestelmääsi"
+# 
+# File: biglinux-browser-selector/usr/share/biglinux/browser_selector/translatable_strings.py, line: 19
+msgid "Changing default browser"
+msgstr "Olet vaihtamassa oletusselainta."
+# 
+# File: biglinux-browser-selector/usr/share/biglinux/browser_selector/translatable_strings.py, line: 17
+#, python-format
+msgid "Setting %s as default…"
+msgstr "Asetetaan %s oletukseksi…"
+# 
+# File: biglinux-browser-selector/usr/share/biglinux/browser_selector/translatable_strings.py, line: 18
+#, python-format
+msgid "%s set as default"
+msgstr "%s asetettu oletukseksi"
+# 
+# File: biglinux-browser-selector/usr/share/biglinux/browser_selector/translatable_strings.py, line: 16
+msgid "Still working…"
+msgstr "Vielä työskentelee…"
+# 
+# File: biglinux-browser-selector/usr/share/biglinux/browser_selector/window.py, line: 521
+msgid "Browser Selector"
+msgstr "Selaimen valitsin"
+# 
+# File: biglinux-browser-selector/usr/share/biglinux/browser_selector/window.py, line: 542
+msgid "Previous page"
+msgstr "Edellinen sivu"
+# 
+# File: biglinux-browser-selector/usr/share/biglinux/browser_selector/window.py, line: 553
+# File: biglinux-browser-selector/usr/share/biglinux/browser_selector/window.py, line: 576
+msgid "Next page"
+msgstr "Seuraava sivu"
+# 
 # File: biglinux-browser-selector/usr/share/biglinux/browser_selector/translatable_strings.py, line: 13
 msgid "Accessibility"
 msgstr "Esteettömyys"
@@ -228,194 +423,3 @@ msgstr "Lahjoituksesi on erittäin tärkeä projektille ja seuraa meitä sosiaal
 # File: biglinux-browser-selector/usr/share/biglinux/browser_selector/translatable_strings.py, line: 64
 msgid "Zen Browser"
 msgstr "Zen-selain."
-# 
-# File: biglinux-browser-selector/usr/share/biglinux/browser_selector/widgets.py, line: 120
-msgid "Kernel"
-msgstr "Ydin"
-# 
-# File: biglinux-browser-selector/usr/share/biglinux/browser_selector/widgets.py, line: 121
-msgid "Desktop"
-msgstr "Työpöytä"
-# 
-# File: biglinux-browser-selector/usr/share/biglinux/browser_selector/widgets.py, line: 123
-msgid "Display"
-msgstr "Näyttö"
-# 
-# File: biglinux-browser-selector/usr/share/biglinux/browser_selector/widgets.py, line: 232
-#, python-format
-msgid "Could not open %s. It may not be installed."
-msgstr "Ei voitu avata %s. Se ei ehkä ole asennettu."
-# 
-# File: biglinux-browser-selector/usr/share/biglinux/browser_selector/widgets.py, line: 241
-msgid "Could not open application"
-msgstr "Voit avata sovellusta."
-# 
-# File: biglinux-browser-selector/usr/share/biglinux/browser_selector/widgets.py, line: 244
-# 
-# File: biglinux-browser-selector/usr/share/biglinux/browser_selector/widgets.py, line: 244
-# 
-# File: biglinux-browser-selector/usr/share/biglinux/browser_selector/widgets.py, line: 244
-# 
-# File: biglinux-browser-selector/usr/share/biglinux/browser_selector/widgets.py, line: 244
-# 
-# #-#-#-#-#  biglinux-browser-selector.pot (biglinux-browser-selector)  #-#-#-#-#
-# 
-# File: biglinux-browser-selector/usr/share/biglinux/browser_selector/translatable_strings.py, line: 20
-# File: biglinux-browser-selector/usr/share/biglinux/browser_selector/widgets.py, line: 97
-msgid "installed"
-msgstr "asennettu"
-# 
-# #-#-#-#-#  biglinux-browser-selector.pot (biglinux-browser-selector)  #-#-#-#-#
-# 
-# File: biglinux-browser-selector/usr/share/biglinux/browser_selector/translatable_strings.py, line: 21
-# File: biglinux-browser-selector/usr/share/biglinux/browser_selector/widgets.py, line: 99
-msgid "not installed"
-msgstr "ei asennettu"
-# 
-# #-#-#-#-#  biglinux-browser-selector.pot (biglinux-browser-selector)  #-#-#-#-#
-# 
-# File: biglinux-browser-selector/usr/share/biglinux/browser_selector/translatable_strings.py, line: 22
-# File: biglinux-browser-selector/usr/share/biglinux/browser_selector/widgets.py, line: 101
-msgid "default browser"
-msgstr "oletusselain"
-# 
-# File: biglinux-browser-selector/usr/share/biglinux/browser_selector/widgets.py, line: 489
-#, python-format
-msgid "Installing %s…"
-msgstr "Asennetaan %s…"
-# 
-# File: biglinux-browser-selector/usr/share/biglinux/browser_selector/widgets.py, line: 495
-msgid "Preparing download…"
-msgstr "Latauksen valmistelu…"
-# 
-# File: biglinux-browser-selector/usr/share/biglinux/browser_selector/widgets.py, line: 522
-# File: biglinux-browser-selector/usr/share/biglinux/browser_selector/widgets.py, line: 789
-msgid "View details"
-msgstr "Näytä tiedot"
-# 
-# File: biglinux-browser-selector/usr/share/biglinux/browser_selector/widgets.py, line: 529
-# File: biglinux-browser-selector/usr/share/biglinux/browser_selector/widgets.py, line: 795
-msgid "Show installation details"
-msgstr "Näytä asennustiedot"
-# 
-# File: biglinux-browser-selector/usr/share/biglinux/browser_selector/widgets.py, line: 557
-msgid "Installation log output"
-msgstr "Asennuslokin tuloste"
-# 
-# File: biglinux-browser-selector/usr/share/biglinux/browser_selector/widgets.py, line: 199
-msgid "Cancel"
-msgstr "Peruuta"
-# 
-# File: biglinux-browser-selector/usr/share/biglinux/browser_selector/widgets.py, line: 580
-msgid "Cancel installation"
-msgstr "Peruuta asennus"
-# 
-# File: biglinux-browser-selector/usr/share/biglinux/browser_selector/widgets.py, line: 205
-msgid "Done"
-msgstr "Valmis"
-# 
-# File: biglinux-browser-selector/usr/share/biglinux/browser_selector/widgets.py, line: 590
-msgid "Close installation panel"
-msgstr "Sulje asennuspaneeli"
-# 
-# File: biglinux-browser-selector/usr/share/biglinux/browser_selector/widgets.py, line: 598
-#, python-format
-msgid "Installing %s"
-msgstr "Asennetaan %s"
-# 
-# File: biglinux-browser-selector/usr/share/biglinux/browser_selector/widgets.py, line: 667
-msgid "It has been set as your default browser."
-msgstr "Se on asetettu oletusselaimeksesi."
-# 
-# File: biglinux-browser-selector/usr/share/biglinux/browser_selector/widgets.py, line: 668
-#, python-format
-msgid "%s installed successfully!"
-msgstr "%s asennettu onnistuneesti!"
-# 
-# File: biglinux-browser-selector/usr/share/biglinux/browser_selector/widgets.py, line: 676
-#, python-format
-msgid "%s installed successfully"
-msgstr "%s asennettu onnistuneesti"
-# 
-# File: biglinux-browser-selector/usr/share/biglinux/browser_selector/widgets.py, line: 684
-#, python-format
-msgid "Failed to install %s"
-msgstr "Asennus epäonnistui %s"
-# 
-# File: biglinux-browser-selector/usr/share/biglinux/browser_selector/widgets.py, line: 687
-msgid "Check the details below for more information."
-msgstr "Tarkista alla olevat tiedot saadaksesi lisätietoja."
-# 
-# File: biglinux-browser-selector/usr/share/biglinux/browser_selector/widgets.py, line: 694
-#, python-format
-msgid "Installation of %s failed"
-msgstr "%s asennus epäonnistui"
-# 
-# File: biglinux-browser-selector/usr/share/biglinux/browser_selector/widgets.py, line: 756
-msgid "Cannot cancel during installation"
-msgstr "Asennuksen aikana ei voi peruuttaa."
-# 
-# File: biglinux-browser-selector/usr/share/biglinux/browser_selector/widgets.py, line: 767
-#, python-brace-format
-msgid "Downloading {name}…"
-msgstr "Ladataan {name}…"
-# 
-# File: biglinux-browser-selector/usr/share/biglinux/browser_selector/widgets.py, line: 779
-#, python-brace-format
-msgid "Downloading… {pct}% ({speed})"
-msgstr "Lataaminen… {pct}% ({speed})"
-# 
-# File: biglinux-browser-selector/usr/share/biglinux/browser_selector/widgets.py, line: 789
-msgid "Hide details"
-msgstr "Piilota tiedot"
-# 
-# File: biglinux-browser-selector/usr/share/biglinux/browser_selector/widgets.py, line: 793
-msgid "Hide installation details"
-msgstr "Piilota asennustiedot"
-# 
-# File: biglinux-browser-selector/usr/share/biglinux/browser_selector/widgets.py, line: 802
-msgid "Cancelling…"
-msgstr "Peruuttaminen…"
-# 
-# File: biglinux-browser-selector/usr/share/biglinux/browser_selector/widgets.py, line: 803
-msgid "Cancelling installation…"
-msgstr "Asennus peruutetaan…"
-# 
-# File: biglinux-browser-selector/usr/share/biglinux/browser_selector/window.py, line: 144
-msgid "In search of the perfect system!"
-msgstr "Etsit täydellistä järjestelmää!"
-# 
-# File: biglinux-browser-selector/usr/share/biglinux/browser_selector/window.py, line: 149
-msgid "Welcome to your new system"
-msgstr "Tervetuloa uuteen järjestelmääsi"
-# 
-# File: biglinux-browser-selector/usr/share/biglinux/browser_selector/translatable_strings.py, line: 19
-msgid "Changing default browser"
-msgstr "Olet vaihtamassa oletusselainta."
-# 
-# File: biglinux-browser-selector/usr/share/biglinux/browser_selector/translatable_strings.py, line: 17
-#, python-format
-msgid "Setting %s as default…"
-msgstr "Asetetaan %s oletukseksi…"
-# 
-# File: biglinux-browser-selector/usr/share/biglinux/browser_selector/translatable_strings.py, line: 18
-#, python-format
-msgid "%s set as default"
-msgstr "%s asetettu oletukseksi"
-# 
-# File: biglinux-browser-selector/usr/share/biglinux/browser_selector/translatable_strings.py, line: 16
-msgid "Still working…"
-msgstr "Vielä työskentelee…"
-# 
-# File: biglinux-browser-selector/usr/share/biglinux/browser_selector/window.py, line: 521
-msgid "Browser Selector"
-msgstr "Selaimen valitsin"
-# 
-# File: biglinux-browser-selector/usr/share/biglinux/browser_selector/window.py, line: 542
-msgid "Previous page"
-msgstr "Edellinen sivu"
-# 
-# File: biglinux-browser-selector/usr/share/biglinux/browser_selector/window.py, line: 553
-# File: biglinux-browser-selector/usr/share/biglinux/browser_selector/window.py, line: 576
-msgid "Next page"
-msgstr "Seuraava sivu"
