@@ -15,219 +15,6 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "X-Generator: attranslate\n"
 # 
-# File: biglinux-browser-selector/usr/share/biglinux/browser_selector/translatable_strings.py, line: 13
-msgid "Accessibility"
-msgstr "Prístupnosť"
-# 
-# File: biglinux-browser-selector/usr/share/biglinux/browser_selector/translatable_strings.py, line: 14
-msgid "AppStore"
-msgstr "AppStore"
-# 
-# File: biglinux-browser-selector/usr/share/biglinux/browser_selector/translatable_strings.py, line: 15
-msgid "Ashy Terminal"
-msgstr "Ashy Terminál"
-# 
-# File: biglinux-browser-selector/usr/share/biglinux/browser_selector/translatable_strings.py, line: 16
-msgid "Audio Converter"
-msgstr "Prevodník zvuku"
-# 
-# File: biglinux-browser-selector/usr/share/biglinux/browser_selector/translatable_strings.py, line: 17
-msgid "Big Store"
-msgstr "Veľký obchod"
-# 
-# File: biglinux-browser-selector/usr/share/biglinux/browser_selector/translatable_strings.py, line: 18
-msgid "BigLinux Info"
-msgstr "BigLinux Informácie"
-# 
-# File: biglinux-browser-selector/usr/share/biglinux/browser_selector/translatable_strings.py, line: 19
-msgid "BigLinux Settings"
-msgstr "Nastavenia BigLinux"
-# 
-# File: biglinux-browser-selector/usr/share/biglinux/browser_selector/translatable_strings.py, line: 20
-msgid "Brave"
-msgstr "Odvážny"
-# 
-# File: biglinux-browser-selector/usr/share/biglinux/browser_selector/translatable_strings.py, line: 21
-msgid "Choose Your Avatar"
-msgstr "Vyberte si svoj avatar"
-# 
-# File: biglinux-browser-selector/usr/share/biglinux/browser_selector/translatable_strings.py, line: 13
-msgid "Choose your default browser"
-msgstr "Vyberte si svoj predvolený prehliadač"
-# 
-# File: biglinux-browser-selector/usr/share/biglinux/browser_selector/translatable_strings.py, line: 23
-msgid "Chrome"
-msgstr "Chrome"
-# 
-# File: biglinux-browser-selector/usr/share/biglinux/browser_selector/translatable_strings.py, line: 24
-msgid "Chromium"
-msgstr "Chromium"
-# 
-# File: biglinux-browser-selector/usr/share/biglinux/browser_selector/translatable_strings.py, line: 25
-msgid "Configure voice"
-msgstr "Nastaviť hlas"
-# 
-# File: biglinux-browser-selector/usr/share/biglinux/browser_selector/translatable_strings.py, line: 26
-msgid "Control Center"
-msgstr "Ovládacie centrum"
-# 
-# File: biglinux-browser-selector/usr/share/biglinux/browser_selector/translatable_strings.py, line: 27
-msgid "Discover some features"
-msgstr "Objavte niektoré funkcie"
-# 
-# File: biglinux-browser-selector/usr/share/biglinux/browser_selector/translatable_strings.py, line: 28
-msgid "Display Settings"
-msgstr "Nastavenia zobrazenia"
-# 
-# File: biglinux-browser-selector/usr/share/biglinux/browser_selector/translatable_strings.py, line: 29
-msgid "Donate"
-msgstr "Darujte"
-# 
-# File: biglinux-browser-selector/usr/share/biglinux/browser_selector/translatable_strings.py, line: 30
-msgid "Donation and Social Networks"
-msgstr "Dar a a a sociálne siete"
-# 
-# File: biglinux-browser-selector/usr/share/biglinux/browser_selector/translatable_strings.py, line: 31
-msgid "Driver Installation and Hardware Information"
-msgstr "Inštalácia ovládača a informácie o hardvéri"
-# 
-# File: biglinux-browser-selector/usr/share/biglinux/browser_selector/translatable_strings.py, line: 32
-msgid "Driver Manager"
-msgstr "Správca ovládačov"
-# 
-# File: biglinux-browser-selector/usr/share/biglinux/browser_selector/translatable_strings.py, line: 33
-msgid "Edge"
-msgstr "Okrajovanie"
-# 
-# File: biglinux-browser-selector/usr/share/biglinux/browser_selector/translatable_strings.py, line: 34
-msgid "Falkon"
-msgstr "Falkon"
-# 
-# File: biglinux-browser-selector/usr/share/biglinux/browser_selector/translatable_strings.py, line: 35
-msgid "Family Safety"
-msgstr "Rodinná bezpečnosť"
-# 
-# File: biglinux-browser-selector/usr/share/biglinux/browser_selector/translatable_strings.py, line: 36
-msgid "Firefox"
-msgstr "Firefox"
-# 
-# File: biglinux-browser-selector/usr/share/biglinux/browser_selector/translatable_strings.py, line: 37
-msgid "Forum"
-msgstr "Fórum"
-# 
-# File: biglinux-browser-selector/usr/share/biglinux/browser_selector/translatable_strings.py, line: 38
-msgid "Initial Settings"
-msgstr "Počiatočné nastavenia"
-# 
-# File: biglinux-browser-selector/usr/share/biglinux/browser_selector/translatable_strings.py, line: 39
-msgid "Install or Remove Drivers and Firmwares easily."
-msgstr "Jednoducho nainštalujte alebo odstráňte ovládače a firmvér."
-# 
-# File: biglinux-browser-selector/usr/share/biglinux/browser_selector/translatable_strings.py, line: 40
-msgid "KDE Connect"
-msgstr "KDE Connect"
-# 
-# File: biglinux-browser-selector/usr/share/biglinux/browser_selector/translatable_strings.py, line: 41
-msgid ""
-"KDE Connect is an application that facilitates wireless communication and data transfer between "
-"devices on local networks. Available on the Google Play Store for Android and the Apple Store for "
-"iPhone."
-msgstr ""
-"KDE Connect je aplikácia, ktorá uľahčuje bezdrôtovú komunikáciu a prenos dát medzi zariadeniami v "
-"lokálnych sieťach. Dostupná v obchode Google Play pre Android a v Apple Store pre iPhone."
-# 
-# File: biglinux-browser-selector/usr/share/biglinux/browser_selector/translatable_strings.py, line: 42
-msgid "Kernel Manager"
-msgstr "Správca jadra"
-# 
-# File: biglinux-browser-selector/usr/share/biglinux/browser_selector/translatable_strings.py, line: 43
-msgid "Language Packs"
-msgstr "Jazykové balíky"
-# 
-# File: biglinux-browser-selector/usr/share/biglinux/browser_selector/translatable_strings.py, line: 44
-msgid "Librewolf"
-msgstr "Librewolf"
-# 
-# File: biglinux-browser-selector/usr/share/biglinux/browser_selector/translatable_strings.py, line: 45
-msgid "Network Info"
-msgstr "Informácie o sieti"
-# 
-# File: biglinux-browser-selector/usr/share/biglinux/browser_selector/translatable_strings.py, line: 46
-msgid "Noise Reduction"
-msgstr "Redukcia šumu"
-# 
-# File: biglinux-browser-selector/usr/share/biglinux/browser_selector/translatable_strings.py, line: 47
-msgid "OCR to PDF"
-msgstr "OCR na PDF"
-# 
-# File: biglinux-browser-selector/usr/share/biglinux/browser_selector/translatable_strings.py, line: 48
-msgid "Open Parental Controls"
-msgstr "Otvorenie rodičovskej kontroly"
-# 
-# File: biglinux-browser-selector/usr/share/biglinux/browser_selector/translatable_strings.py, line: 49
-msgid "Opera"
-msgstr "Opera"
-# 
-# File: biglinux-browser-selector/usr/share/biglinux/browser_selector/translatable_strings.py, line: 50
-msgid "Our platform is collaborative, join this evolution."
-msgstr "Naša platforma je spoluprácou, pridajte sa k tejto evolúcii."
-# 
-# File: biglinux-browser-selector/usr/share/biglinux/browser_selector/translatable_strings.py, line: 51
-msgid "PlayStore"
-msgstr "PlayStore"
-# 
-# File: biglinux-browser-selector/usr/share/biglinux/browser_selector/translatable_strings.py, line: 52
-msgid "Printers"
-msgstr "Tlačiarne"
-# 
-# File: biglinux-browser-selector/usr/share/biglinux/browser_selector/translatable_strings.py, line: 53
-msgid "Protect your children online. Set up supervised accounts, screen time, and content filters."
-msgstr "Chráňte svoje deti online. Nastavte dohliadané účty, čas obrazovky a filtre obsahu."
-# 
-# File: biglinux-browser-selector/usr/share/biglinux/browser_selector/translatable_strings.py, line: 54
-msgid "Session and Themes"
-msgstr "Relácia a témy"
-# 
-# File: biglinux-browser-selector/usr/share/biglinux/browser_selector/translatable_strings.py, line: 55
-msgid "Set your default browser."
-msgstr "Nastavte si predvolený prehliadač."
-# 
-# File: biglinux-browser-selector/usr/share/biglinux/browser_selector/translatable_strings.py, line: 56
-msgid "Telegram"
-msgstr "Telegram"
-# 
-# File: biglinux-browser-selector/usr/share/biglinux/browser_selector/translatable_strings.py, line: 57
-msgid "Time Shift"
-msgstr "Časový posun"
-# 
-# File: biglinux-browser-selector/usr/share/biglinux/browser_selector/translatable_strings.py, line: 58
-msgid "Video Converter"
-msgstr "Prevodník videa"
-# 
-# File: biglinux-browser-selector/usr/share/biglinux/browser_selector/translatable_strings.py, line: 59
-msgid "Vivaldi"
-msgstr "Vivaldi"
-# 
-# File: biglinux-browser-selector/usr/share/biglinux/browser_selector/translatable_strings.py, line: 60
-msgid "We provide comprehensive settings for you to select in an extremely simple way."
-msgstr "Poskytujeme komplexné nastavenia, ktoré si môžete vybrať mimoriadne jednoduchým spôsobom."
-# 
-# File: biglinux-browser-selector/usr/share/biglinux/browser_selector/translatable_strings.py, line: 61
-msgid "WebApps"
-msgstr "Webové aplikácie"
-# 
-# File: biglinux-browser-selector/usr/share/biglinux/browser_selector/translatable_strings.py, line: 62
-msgid "YouTube"
-msgstr "YouTube"
-# 
-# File: biglinux-browser-selector/usr/share/biglinux/browser_selector/translatable_strings.py, line: 63
-msgid "Your donation is very important for the project and follow us on social media."
-msgstr "Vaša darcovská činnosť je pre projekt veľmi dôležitá a sledujte nás na sociálnych sieťach."
-# 
-# File: biglinux-browser-selector/usr/share/biglinux/browser_selector/translatable_strings.py, line: 64
-msgid "Zen Browser"
-msgstr "Zen prehliadač"
-# 
 # File: biglinux-browser-selector/usr/share/biglinux/browser_selector/widgets.py, line: 120
 msgid "Kernel"
 msgstr "Jadro"
@@ -404,15 +191,50 @@ msgstr "%s nastavené ako predvolené"
 msgid "Still working…"
 msgstr "Ešte pracujem…"
 # 
-# File: biglinux-browser-selector/usr/share/biglinux/browser_selector/window.py, line: 521
-msgid "Browser Selector"
-msgstr "Výber prehliadača"
+# File: biglinux-browser-selector/usr/share/biglinux/browser_selector/translatable_strings.py, line: 20
+msgid "Brave"
+msgstr "Odvážny"
 # 
-# File: biglinux-browser-selector/usr/share/biglinux/browser_selector/window.py, line: 542
-msgid "Previous page"
-msgstr "Predchádzajúca stránka"
+# File: biglinux-browser-selector/usr/share/biglinux/browser_selector/translatable_strings.py, line: 13
+msgid "Choose your default browser"
+msgstr "Vyberte si svoj predvolený prehliadač"
 # 
-# File: biglinux-browser-selector/usr/share/biglinux/browser_selector/window.py, line: 553
-# File: biglinux-browser-selector/usr/share/biglinux/browser_selector/window.py, line: 576
-msgid "Next page"
-msgstr "Ďalšia stránka"
+# File: biglinux-browser-selector/usr/share/biglinux/browser_selector/translatable_strings.py, line: 23
+msgid "Chrome"
+msgstr "Chrome"
+# 
+# File: biglinux-browser-selector/usr/share/biglinux/browser_selector/translatable_strings.py, line: 24
+msgid "Chromium"
+msgstr "Chromium"
+# 
+# File: biglinux-browser-selector/usr/share/biglinux/browser_selector/translatable_strings.py, line: 33
+msgid "Edge"
+msgstr "Okrajovanie"
+# 
+# File: biglinux-browser-selector/usr/share/biglinux/browser_selector/translatable_strings.py, line: 34
+msgid "Falkon"
+msgstr "Falkon"
+# 
+# File: biglinux-browser-selector/usr/share/biglinux/browser_selector/translatable_strings.py, line: 36
+msgid "Firefox"
+msgstr "Firefox"
+# 
+# File: biglinux-browser-selector/usr/share/biglinux/browser_selector/translatable_strings.py, line: 44
+msgid "Librewolf"
+msgstr "Librewolf"
+# 
+# File: biglinux-browser-selector/usr/share/biglinux/browser_selector/translatable_strings.py, line: 49
+msgid "Opera"
+msgstr "Opera"
+# 
+# File: biglinux-browser-selector/usr/share/biglinux/browser_selector/translatable_strings.py, line: 55
+msgid "Set your default browser."
+msgstr "Nastavte si predvolený prehliadač."
+# 
+# File: biglinux-browser-selector/usr/share/biglinux/browser_selector/translatable_strings.py, line: 59
+msgid "Vivaldi"
+msgstr "Vivaldi"
+# 
+# File: biglinux-browser-selector/usr/share/biglinux/browser_selector/translatable_strings.py, line: 64
+msgid "Zen Browser"
+msgstr "Zen prehliadač"

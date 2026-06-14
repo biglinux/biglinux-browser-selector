@@ -2,7 +2,7 @@
 # Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
 # This file is distributed under the same license as the biglinux-browser-selector package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
-# 
+#
 msgid ""
 msgstr ""
 "Project-Id-Version: biglinux-browser-selector\n"
@@ -13,445 +13,266 @@ msgstr ""
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: attranslate\n"
-# 
-# File: biglinux-browser-selector/usr/share/biglinux/browser_selector/widgets.py, line: 120
+
+#
+# File: biglinux-browser-selector/usr/share/biglinux/browser-selector/widgets.py, line: 120
 msgid "Kernel"
 msgstr "Kernel"
-# 
-# File: biglinux-browser-selector/usr/share/biglinux/browser_selector/widgets.py, line: 121
+
+#
+# File: biglinux-browser-selector/usr/share/biglinux/browser-selector/widgets.py, line: 121
 msgid "Desktop"
 msgstr "Desktop"
-# 
-# File: biglinux-browser-selector/usr/share/biglinux/browser_selector/widgets.py, line: 123
+
+#
+# File: biglinux-browser-selector/usr/share/biglinux/browser-selector/widgets.py, line: 123
 msgid "Display"
 msgstr "Display"
-# 
-# File: biglinux-browser-selector/usr/share/biglinux/browser_selector/widgets.py, line: 232
+
+#
+# File: biglinux-browser-selector/usr/share/biglinux/browser-selector/widgets.py, line: 232
 #, python-format
 msgid "Could not open %s. It may not be installed."
 msgstr "Could not open %s. It may not be installed."
-# 
-# File: biglinux-browser-selector/usr/share/biglinux/browser_selector/widgets.py, line: 241
+
+#
+# File: biglinux-browser-selector/usr/share/biglinux/browser-selector/widgets.py, line: 241
 msgid "Could not open application"
 msgstr "Could not open application"
-# 
-# File: biglinux-browser-selector/usr/share/biglinux/browser_selector/widgets.py, line: 244
-# 
-# File: biglinux-browser-selector/usr/share/biglinux/browser_selector/widgets.py, line: 244
-# 
-# File: biglinux-browser-selector/usr/share/biglinux/browser_selector/widgets.py, line: 244
-# 
-# File: biglinux-browser-selector/usr/share/biglinux/browser_selector/widgets.py, line: 244
-# 
-# File: biglinux-browser-selector/usr/share/biglinux/browser_selector/widgets.py, line: 244
-# 
-# File: biglinux-browser-selector/usr/share/biglinux/browser_selector/widgets.py, line: 244
-# 
-# #-#-#-#-#  biglinux-browser-selector.pot (biglinux-browser-selector)  #-#-#-#-#
-# 
-# File: biglinux-browser-selector/usr/share/biglinux/browser_selector/translatable_strings.py, line: 20
-# File: biglinux-browser-selector/usr/share/biglinux/browser_selector/widgets.py, line: 97
+
+#
+# File: biglinux-browser-selector/usr/share/biglinux/browser-selector/widgets.py, line: 244
+msgid "OK"
+msgstr "OK"
+
+#
+# File: biglinux-browser-selector/usr/share/biglinux/browser-selector/widgets.py, line: 328
 msgid "installed"
 msgstr "installed"
-# 
-# #-#-#-#-#  biglinux-browser-selector.pot (biglinux-browser-selector)  #-#-#-#-#
-# 
-# File: biglinux-browser-selector/usr/share/biglinux/browser_selector/translatable_strings.py, line: 21
-# File: biglinux-browser-selector/usr/share/biglinux/browser_selector/widgets.py, line: 99
+
+#
+# File: biglinux-browser-selector/usr/share/biglinux/browser-selector/widgets.py, line: 330
 msgid "not installed"
 msgstr "not installed"
-# 
-# #-#-#-#-#  biglinux-browser-selector.pot (biglinux-browser-selector)  #-#-#-#-#
-# 
-# File: biglinux-browser-selector/usr/share/biglinux/browser_selector/translatable_strings.py, line: 22
-# File: biglinux-browser-selector/usr/share/biglinux/browser_selector/widgets.py, line: 101
+
+#
+# File: biglinux-browser-selector/usr/share/biglinux/browser-selector/widgets.py, line: 332
 msgid "default browser"
 msgstr "default browser"
-# 
-# File: biglinux-browser-selector/usr/share/biglinux/browser_selector/widgets.py, line: 489
+
+#
+# File: biglinux-browser-selector/usr/share/biglinux/browser-selector/widgets.py, line: 489
 #, python-format
 msgid "Installing %s…"
 msgstr "Installing %s…"
-# 
-# File: biglinux-browser-selector/usr/share/biglinux/browser_selector/widgets.py, line: 495
+
+#
+# File: biglinux-browser-selector/usr/share/biglinux/browser-selector/widgets.py, line: 495
 msgid "Preparing download…"
 msgstr "Preparing download…"
-# 
-# File: biglinux-browser-selector/usr/share/biglinux/browser_selector/widgets.py, line: 522
-# File: biglinux-browser-selector/usr/share/biglinux/browser_selector/widgets.py, line: 789
+
+#
+# File: biglinux-browser-selector/usr/share/biglinux/browser-selector/widgets.py, line: 522
+# File: biglinux-browser-selector/usr/share/biglinux/browser-selector/widgets.py, line: 789
 msgid "View details"
 msgstr "View details"
-# 
-# File: biglinux-browser-selector/usr/share/biglinux/browser_selector/widgets.py, line: 529
-# File: biglinux-browser-selector/usr/share/biglinux/browser_selector/widgets.py, line: 795
+
+#
+# File: biglinux-browser-selector/usr/share/biglinux/browser-selector/widgets.py, line: 529
+# File: biglinux-browser-selector/usr/share/biglinux/browser-selector/widgets.py, line: 795
 msgid "Show installation details"
 msgstr "Show installation details"
-# 
-# File: biglinux-browser-selector/usr/share/biglinux/browser_selector/widgets.py, line: 557
+
+#
+# File: biglinux-browser-selector/usr/share/biglinux/browser-selector/widgets.py, line: 557
 msgid "Installation log output"
 msgstr "Installation log output"
-# 
-# File: biglinux-browser-selector/usr/share/biglinux/browser_selector/widgets.py, line: 199
+
+#
+# File: biglinux-browser-selector/usr/share/biglinux/browser-selector/widgets.py, line: 576
 msgid "Cancel"
 msgstr "Cancel"
-# 
-# File: biglinux-browser-selector/usr/share/biglinux/browser_selector/widgets.py, line: 580
+
+#
+# File: biglinux-browser-selector/usr/share/biglinux/browser-selector/widgets.py, line: 580
 msgid "Cancel installation"
 msgstr "Cancel installation"
-# 
-# #-#-#-#-#  biglinux-browser-selector.pot (biglinux-browser-selector)  #-#-#-#-#
-# 
-# File: biglinux-browser-selector/usr/share/biglinux/browser_selector/widgets.py, line: 585
-# File: biglinux-browser-selector/usr/share/biglinux/browser_selector/window.py, line: 567
-# File: biglinux-browser-selector/usr/share/biglinux/browser_selector/window.py, line: 568
-# 
-# #-#-#-#-#  biglinux-browser-selector.pot (biglinux-browser-selector)  #-#-#-#-#
-# 
-# File: biglinux-browser-selector/usr/share/biglinux/browser_selector/widgets.py, line: 585
-# File: biglinux-browser-selector/usr/share/biglinux/browser_selector/window.py, line: 567
-# File: biglinux-browser-selector/usr/share/biglinux/browser_selector/window.py, line: 568
-# 
-# #-#-#-#-#  biglinux-browser-selector.pot (biglinux-browser-selector)  #-#-#-#-#
-# 
-# File: biglinux-browser-selector/usr/share/biglinux/browser_selector/widgets.py, line: 585
-# File: biglinux-browser-selector/usr/share/biglinux/browser_selector/window.py, line: 567
-# File: biglinux-browser-selector/usr/share/biglinux/browser_selector/window.py, line: 568
-# 
-# #-#-#-#-#  biglinux-browser-selector.pot (biglinux-browser-selector)  #-#-#-#-#
-# 
-# File: biglinux-browser-selector/usr/share/biglinux/browser_selector/widgets.py, line: 585
-# File: biglinux-browser-selector/usr/share/biglinux/browser_selector/window.py, line: 567
-# File: biglinux-browser-selector/usr/share/biglinux/browser_selector/window.py, line: 568
-# 
-# #-#-#-#-#  biglinux-browser-selector.pot (biglinux-browser-selector)  #-#-#-#-#
-# 
-# File: biglinux-browser-selector/usr/share/biglinux/browser_selector/widgets.py, line: 585
-# File: biglinux-browser-selector/usr/share/biglinux/browser_selector/window.py, line: 567
-# File: biglinux-browser-selector/usr/share/biglinux/browser_selector/window.py, line: 568
-# 
-# #-#-#-#-#  biglinux-browser-selector.pot (biglinux-browser-selector)  #-#-#-#-#
-# 
-# File: biglinux-browser-selector/usr/share/biglinux/browser_selector/widgets.py, line: 585
-# File: biglinux-browser-selector/usr/share/biglinux/browser_selector/window.py, line: 567
-# File: biglinux-browser-selector/usr/share/biglinux/browser_selector/window.py, line: 568
-# 
-# File: biglinux-browser-selector/usr/share/biglinux/browser_selector/widgets.py, line: 590
+
+#
+# File: biglinux-browser-selector/usr/share/biglinux/browser-selector/widgets.py, line: 585
+msgid "Done"
+msgstr "Done"
+
+#
+# File: biglinux-browser-selector/usr/share/biglinux/browser-selector/widgets.py, line: 590
 msgid "Close installation panel"
 msgstr "Close installation panel"
-# 
-# File: biglinux-browser-selector/usr/share/biglinux/browser_selector/widgets.py, line: 598
+
+#
+# File: biglinux-browser-selector/usr/share/biglinux/browser-selector/widgets.py, line: 598
 #, python-format
 msgid "Installing %s"
 msgstr "Installing %s"
-# 
-# File: biglinux-browser-selector/usr/share/biglinux/browser_selector/widgets.py, line: 667
+
+#
+# File: biglinux-browser-selector/usr/share/biglinux/browser-selector/widgets.py, line: 667
 msgid "It has been set as your default browser."
 msgstr "It has been set as your default browser."
-# 
-# File: biglinux-browser-selector/usr/share/biglinux/browser_selector/widgets.py, line: 668
+
+#
+# File: biglinux-browser-selector/usr/share/biglinux/browser-selector/widgets.py, line: 668
 #, python-format
 msgid "%s installed successfully!"
 msgstr "%s installed successfully!"
-# 
-# File: biglinux-browser-selector/usr/share/biglinux/browser_selector/widgets.py, line: 676
+
+#
+# File: biglinux-browser-selector/usr/share/biglinux/browser-selector/widgets.py, line: 676
 #, python-format
 msgid "%s installed successfully"
 msgstr "%s installed successfully"
-# 
-# File: biglinux-browser-selector/usr/share/biglinux/browser_selector/widgets.py, line: 684
+
+#
+# File: biglinux-browser-selector/usr/share/biglinux/browser-selector/widgets.py, line: 684
 #, python-format
 msgid "Failed to install %s"
 msgstr "Failed to install %s"
-# 
-# File: biglinux-browser-selector/usr/share/biglinux/browser_selector/widgets.py, line: 687
+
+#
+# File: biglinux-browser-selector/usr/share/biglinux/browser-selector/widgets.py, line: 687
 msgid "Check the details below for more information."
 msgstr "Check the details below for more information."
-# 
-# File: biglinux-browser-selector/usr/share/biglinux/browser_selector/widgets.py, line: 694
+
+#
+# File: biglinux-browser-selector/usr/share/biglinux/browser-selector/widgets.py, line: 694
 #, python-format
 msgid "Installation of %s failed"
 msgstr "Installation of %s failed"
-# 
-# File: biglinux-browser-selector/usr/share/biglinux/browser_selector/widgets.py, line: 756
+
+#
+# File: biglinux-browser-selector/usr/share/biglinux/browser-selector/widgets.py, line: 756
 msgid "Cannot cancel during installation"
 msgstr "Cannot cancel during installation"
-# 
-# File: biglinux-browser-selector/usr/share/biglinux/browser_selector/widgets.py, line: 767
+
+#
+# File: biglinux-browser-selector/usr/share/biglinux/browser-selector/widgets.py, line: 767
 #, python-brace-format
 msgid "Downloading {name}…"
 msgstr "Downloading {name}…"
-# 
-# File: biglinux-browser-selector/usr/share/biglinux/browser_selector/widgets.py, line: 779
+
+#
+# File: biglinux-browser-selector/usr/share/biglinux/browser-selector/widgets.py, line: 779
 #, python-brace-format
 msgid "Downloading… {pct}% ({speed})"
 msgstr "Downloading… {pct}% ({speed})"
-# 
-# File: biglinux-browser-selector/usr/share/biglinux/browser_selector/widgets.py, line: 789
+
+#
+# File: biglinux-browser-selector/usr/share/biglinux/browser-selector/widgets.py, line: 789
 msgid "Hide details"
 msgstr "Hide details"
-# 
-# File: biglinux-browser-selector/usr/share/biglinux/browser_selector/widgets.py, line: 793
+
+#
+# File: biglinux-browser-selector/usr/share/biglinux/browser-selector/widgets.py, line: 793
 msgid "Hide installation details"
 msgstr "Hide installation details"
-# 
-# File: biglinux-browser-selector/usr/share/biglinux/browser_selector/widgets.py, line: 802
+
+#
+# File: biglinux-browser-selector/usr/share/biglinux/browser-selector/widgets.py, line: 802
 msgid "Cancelling…"
 msgstr "Cancelling…"
-# 
-# File: biglinux-browser-selector/usr/share/biglinux/browser_selector/widgets.py, line: 803
+
+#
+# File: biglinux-browser-selector/usr/share/biglinux/browser-selector/widgets.py, line: 803
 msgid "Cancelling installation…"
 msgstr "Cancelling installation…"
-# 
-# File: biglinux-browser-selector/usr/share/biglinux/browser_selector/window.py, line: 144
+
+#
+# File: biglinux-browser-selector/usr/share/biglinux/browser-selector/window.py, line: 142
 msgid "In search of the perfect system!"
 msgstr "In search of the perfect system!"
-# 
-# File: biglinux-browser-selector/usr/share/biglinux/browser_selector/window.py, line: 149
+
+#
+# File: biglinux-browser-selector/usr/share/biglinux/browser-selector/window.py, line: 147
 msgid "Welcome to your new system"
 msgstr "Welcome to your new system"
-# 
-# File: biglinux-browser-selector/usr/share/biglinux/browser_selector/translatable_strings.py, line: 19
+
+#
+# File: biglinux-browser-selector/usr/share/biglinux/browser-selector/window.py, line: 248
 msgid "Changing default browser"
 msgstr "Changing default browser"
-# 
-# File: biglinux-browser-selector/usr/share/biglinux/browser_selector/translatable_strings.py, line: 17
+
+#
+# File: biglinux-browser-selector/usr/share/biglinux/browser-selector/window.py, line: 348
 #, python-format
 msgid "Setting %s as default…"
 msgstr "Setting %s as default…"
-# 
-# File: biglinux-browser-selector/usr/share/biglinux/browser_selector/translatable_strings.py, line: 18
+
+#
+# File: biglinux-browser-selector/usr/share/biglinux/browser-selector/window.py, line: 361
 #, python-format
 msgid "%s set as default"
 msgstr "%s set as default"
-# 
-# File: biglinux-browser-selector/usr/share/biglinux/browser_selector/translatable_strings.py, line: 16
+
+#
+# File: biglinux-browser-selector/usr/share/biglinux/browser-selector/window.py, line: 473
 msgid "Still working…"
 msgstr "Still working…"
-# 
-# File: biglinux-browser-selector/usr/share/biglinux/browser_selector/window.py, line: 521
-msgid "Browser Selector"
-msgstr "Browser Selector"
-# 
-# File: biglinux-browser-selector/usr/share/biglinux/browser_selector/window.py, line: 542
-msgid "Previous page"
-msgstr "Previous page"
-# 
-# File: biglinux-browser-selector/usr/share/biglinux/browser_selector/window.py, line: 553
-# File: biglinux-browser-selector/usr/share/biglinux/browser_selector/window.py, line: 576
-msgid "Next page"
-msgstr "Next page"
-# 
-# File: biglinux-browser-selector/usr/share/biglinux/browser_selector/translatable_strings.py, line: 13
-msgid "Accessibility"
-msgstr "Accessibility"
-# 
-# File: biglinux-browser-selector/usr/share/biglinux/browser_selector/translatable_strings.py, line: 14
-msgid "AppStore"
-msgstr "App Store"
-# 
-# File: biglinux-browser-selector/usr/share/biglinux/browser_selector/translatable_strings.py, line: 15
-msgid "Ashy Terminal"
-msgstr "Ashy Terminal"
-# 
-# File: biglinux-browser-selector/usr/share/biglinux/browser_selector/translatable_strings.py, line: 16
-msgid "Audio Converter"
-msgstr "Audio Converter"
-# 
-# File: biglinux-browser-selector/usr/share/biglinux/browser_selector/translatable_strings.py, line: 17
-msgid "Big Store"
-msgstr "Big Store"
-# 
-# File: biglinux-browser-selector/usr/share/biglinux/browser_selector/translatable_strings.py, line: 18
-msgid "BigLinux Info"
-msgstr "BigLinux Info"
-# 
-# File: biglinux-browser-selector/usr/share/biglinux/browser_selector/translatable_strings.py, line: 19
-msgid "BigLinux Settings"
-msgstr "BigLinux Settings"
-# 
-# File: biglinux-browser-selector/usr/share/biglinux/browser_selector/translatable_strings.py, line: 20
+
+#
+# File: biglinux-browser-selector/usr/share/biglinux/browser-selector/translatable_strings.py, line: 13
 msgid "Brave"
 msgstr "Brave"
-# 
-# File: biglinux-browser-selector/usr/share/biglinux/browser_selector/translatable_strings.py, line: 21
-msgid "Choose Your Avatar"
-msgstr "Choose Your Avatar"
-# 
-# File: biglinux-browser-selector/usr/share/biglinux/browser_selector/translatable_strings.py, line: 13
+
+#
+# File: biglinux-browser-selector/usr/share/biglinux/browser-selector/translatable_strings.py, line: 14
 msgid "Choose your default browser"
 msgstr "Choose your default browser"
-# 
-# File: biglinux-browser-selector/usr/share/biglinux/browser_selector/translatable_strings.py, line: 23
+
+#
+# File: biglinux-browser-selector/usr/share/biglinux/browser-selector/translatable_strings.py, line: 15
 msgid "Chrome"
 msgstr "Chrome"
-# 
-# File: biglinux-browser-selector/usr/share/biglinux/browser_selector/translatable_strings.py, line: 24
+
+#
+# File: biglinux-browser-selector/usr/share/biglinux/browser-selector/translatable_strings.py, line: 16
 msgid "Chromium"
 msgstr "Chromium"
-# 
-# File: biglinux-browser-selector/usr/share/biglinux/browser_selector/translatable_strings.py, line: 25
-msgid "Configure voice"
-msgstr "Configure voice"
-# 
-# File: biglinux-browser-selector/usr/share/biglinux/browser_selector/translatable_strings.py, line: 26
-msgid "Control Center"
-msgstr "Control Center"
-# 
-# File: biglinux-browser-selector/usr/share/biglinux/browser_selector/translatable_strings.py, line: 27
-msgid "Discover some features"
-msgstr "Discover some features"
-# 
-# File: biglinux-browser-selector/usr/share/biglinux/browser_selector/translatable_strings.py, line: 28
-msgid "Display Settings"
-msgstr "Display Settings"
-# 
-# File: biglinux-browser-selector/usr/share/biglinux/browser_selector/translatable_strings.py, line: 29
-msgid "Donate"
-msgstr "Donate"
-# 
-# File: biglinux-browser-selector/usr/share/biglinux/browser_selector/translatable_strings.py, line: 30
-msgid "Donation and Social Networks"
-msgstr "Donation e Redes Sociais"
-# 
-# File: biglinux-browser-selector/usr/share/biglinux/browser_selector/translatable_strings.py, line: 31
-msgid "Driver Installation and Hardware Information"
-msgstr "Driver Installation and Hardware Information"
-# 
-# File: biglinux-browser-selector/usr/share/biglinux/browser_selector/translatable_strings.py, line: 32
-msgid "Driver Manager"
-msgstr "Driver Manager"
-# 
-# File: biglinux-browser-selector/usr/share/biglinux/browser_selector/translatable_strings.py, line: 33
+
+#
+# File: biglinux-browser-selector/usr/share/biglinux/browser-selector/translatable_strings.py, line: 17
 msgid "Edge"
 msgstr "Edge"
-# 
-# File: biglinux-browser-selector/usr/share/biglinux/browser_selector/translatable_strings.py, line: 34
+
+#
+# File: biglinux-browser-selector/usr/share/biglinux/browser-selector/translatable_strings.py, line: 18
 msgid "Falkon"
 msgstr "Falkon"
-# 
-# File: biglinux-browser-selector/usr/share/biglinux/browser_selector/translatable_strings.py, line: 35
-msgid "Family Safety"
-msgstr "Family Safety"
-# 
-# File: biglinux-browser-selector/usr/share/biglinux/browser_selector/translatable_strings.py, line: 36
+
+#
+# File: biglinux-browser-selector/usr/share/biglinux/browser-selector/translatable_strings.py, line: 19
 msgid "Firefox"
 msgstr "Firefox"
-# 
-# File: biglinux-browser-selector/usr/share/biglinux/browser_selector/translatable_strings.py, line: 37
-msgid "Forum"
-msgstr "Forum"
-# 
-# File: biglinux-browser-selector/usr/share/biglinux/browser_selector/translatable_strings.py, line: 38
-msgid "Initial Settings"
-msgstr "Initial Settings"
-# 
-# File: biglinux-browser-selector/usr/share/biglinux/browser_selector/translatable_strings.py, line: 39
-msgid "Install or Remove Drivers and Firmwares easily."
-msgstr "Easily install or remove drivers and firmwares."
-# 
-# File: biglinux-browser-selector/usr/share/biglinux/browser_selector/translatable_strings.py, line: 40
-msgid "KDE Connect"
-msgstr "KDE Connect"
-# 
-# File: biglinux-browser-selector/usr/share/biglinux/browser_selector/translatable_strings.py, line: 41
-msgid ""
-"KDE Connect is an application that facilitates wireless communication and data transfer between "
-"devices on local networks. Available on the Google Play Store for Android and the Apple Store for "
-"iPhone."
-msgstr ""
-"KDE Connect is an application that facilitates wireless communication and data transfer between "
-"devices on local networks. Available on the Google Play Store for Android and the Apple Store for "
-"iPhone."
-# 
-# File: biglinux-browser-selector/usr/share/biglinux/browser_selector/translatable_strings.py, line: 42
-msgid "Kernel Manager"
-msgstr "Kernel Manager"
-# 
-# File: biglinux-browser-selector/usr/share/biglinux/browser_selector/translatable_strings.py, line: 43
-msgid "Language Packs"
-msgstr "Language Packs"
-# 
-# File: biglinux-browser-selector/usr/share/biglinux/browser_selector/translatable_strings.py, line: 44
+
+#
+# File: biglinux-browser-selector/usr/share/biglinux/browser-selector/translatable_strings.py, line: 20
 msgid "Librewolf"
 msgstr "Librewolf"
-# 
-# File: biglinux-browser-selector/usr/share/biglinux/browser_selector/translatable_strings.py, line: 45
-msgid "Network Info"
-msgstr "Network Information"
-# 
-# File: biglinux-browser-selector/usr/share/biglinux/browser_selector/translatable_strings.py, line: 46
-msgid "Noise Reduction"
-msgstr "Noise Reduction"
-# 
-# File: biglinux-browser-selector/usr/share/biglinux/browser_selector/translatable_strings.py, line: 47
-msgid "OCR to PDF"
-msgstr "OCR to PDF"
-# 
-# File: biglinux-browser-selector/usr/share/biglinux/browser_selector/translatable_strings.py, line: 48
-msgid "Open Parental Controls"
-msgstr "Open Parental Controls"
-# 
-# File: biglinux-browser-selector/usr/share/biglinux/browser_selector/translatable_strings.py, line: 49
+
+#
+# File: biglinux-browser-selector/usr/share/biglinux/browser-selector/translatable_strings.py, line: 21
 msgid "Opera"
 msgstr "Opera"
-# 
-# File: biglinux-browser-selector/usr/share/biglinux/browser_selector/translatable_strings.py, line: 50
-msgid "Our platform is collaborative, join this evolution."
-msgstr "Our platform is collaborative, join this evolution."
-# 
-# File: biglinux-browser-selector/usr/share/biglinux/browser_selector/translatable_strings.py, line: 51
-msgid "PlayStore"
-msgstr "Play Store"
-# 
-# File: biglinux-browser-selector/usr/share/biglinux/browser_selector/translatable_strings.py, line: 52
-msgid "Printers"
-msgstr "Printers"
-# 
-# File: biglinux-browser-selector/usr/share/biglinux/browser_selector/translatable_strings.py, line: 53
-msgid "Protect your children online. Set up supervised accounts, screen time, and content filters."
-msgstr "Protect your children online. Set up supervised accounts, screen time, and content filters."
-# 
-# File: biglinux-browser-selector/usr/share/biglinux/browser_selector/translatable_strings.py, line: 54
-msgid "Session and Themes"
-msgstr "Session e Temas"
-# 
-# File: biglinux-browser-selector/usr/share/biglinux/browser_selector/translatable_strings.py, line: 55
+
+#
+# File: biglinux-browser-selector/usr/share/biglinux/browser-selector/translatable_strings.py, line: 22
 msgid "Set your default browser."
 msgstr "Set your default browser."
-# 
-# File: biglinux-browser-selector/usr/share/biglinux/browser_selector/translatable_strings.py, line: 56
-msgid "Telegram"
-msgstr "Telegram"
-# 
-# File: biglinux-browser-selector/usr/share/biglinux/browser_selector/translatable_strings.py, line: 57
-msgid "Time Shift"
-msgstr "Time Shift"
-# 
-# File: biglinux-browser-selector/usr/share/biglinux/browser_selector/translatable_strings.py, line: 58
-msgid "Video Converter"
-msgstr "Video Converter"
-# 
-# File: biglinux-browser-selector/usr/share/biglinux/browser_selector/translatable_strings.py, line: 59
+
+#
+# File: biglinux-browser-selector/usr/share/biglinux/browser-selector/translatable_strings.py, line: 23
 msgid "Vivaldi"
 msgstr "Vivaldi"
-# 
-# File: biglinux-browser-selector/usr/share/biglinux/browser_selector/translatable_strings.py, line: 60
-msgid "We provide comprehensive settings for you to select in an extremely simple way."
-msgstr "We provide comprehensive settings for you to select in an extremely simple way."
-# 
-# File: biglinux-browser-selector/usr/share/biglinux/browser_selector/translatable_strings.py, line: 61
-msgid "WebApps"
-msgstr "WebApps"
-# 
-# File: biglinux-browser-selector/usr/share/biglinux/browser_selector/translatable_strings.py, line: 62
-msgid "YouTube"
-msgstr "YouTube"
-# 
-# File: biglinux-browser-selector/usr/share/biglinux/browser_selector/translatable_strings.py, line: 63
-msgid "Your donation is very important for the project and follow us on social media."
-msgstr "Your donation is very important for the project and follow us on social media."
-# 
-# File: biglinux-browser-selector/usr/share/biglinux/browser_selector/translatable_strings.py, line: 64
+
+#
+# File: biglinux-browser-selector/usr/share/biglinux/browser-selector/translatable_strings.py, line: 24
 msgid "Zen Browser"
 msgstr "Zen Browser"
