@@ -67,7 +67,7 @@ biglinux-browser-selector/
 │   ├── share/
 │   │   ├── applications/
 │   │   │   └── org.biglinux.browser-selector.desktop
-│   │   ├── browser_selector/
+│   │   ├── browser-selector/
 │   │   │   ├── main.py                   # entry point
 │   │   │   ├── app.py                    # Adw.Application + CSS
 │   │   │   ├── window.py                 # main window & browser logic
@@ -106,7 +106,7 @@ Each browser supports both native package installation and Flatpak variants wher
 ### Running locally
 
 ```bash
-cd usr/share/biglinux/browser_selector
+cd usr/share/biglinux/browser-selector
 python main.py
 ```
 
@@ -114,8 +114,8 @@ python main.py
 
 ```bash
 pip install ruff
-ruff check usr/share/biglinux/browser_selector/
-ruff format usr/share/biglinux/browser_selector/
+ruff check usr/share/biglinux/browser-selector/
+ruff format usr/share/biglinux/browser-selector/
 ```
 
 ## Contributing

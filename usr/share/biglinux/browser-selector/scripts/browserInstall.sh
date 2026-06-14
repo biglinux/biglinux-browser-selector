@@ -5,7 +5,7 @@
 # No Zenity or GUI — the welcome app handles the UI.
 
 browser="$1"
-log="/var/log/biglinux-welcome.log"
+log="/var/log/browser-selector.log"
 
 # Force English output so progress parsing works regardless of system locale
 export LANGUAGE=C
@@ -18,8 +18,8 @@ echo "STATUS:started"
 echo "Preparing $browser..."
 
 case "$browser" in
-	brave)
-		stdbuf -o0 pacman -Sy --noconfirm brave 2>&1 | stdbuf -o0 tee -a "$log" ;;
+	brave-browser)
+		stdbuf -o0 pacman -Sy --noconfirm brave-browser 2>&1 | stdbuf -o0 tee -a "$log" ;;
 	chromium)
 		stdbuf -o0 pacman -Sy --noconfirm chromium 2>&1 | stdbuf -o0 tee -a "$log" ;;
 	google-chrome)

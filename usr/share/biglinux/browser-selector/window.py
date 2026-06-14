@@ -97,8 +97,6 @@ class BrowserSelectorWindow(Adw.ApplicationWindow):
                 self.stack.add_named(page, f"page_{i}")
                 self.page_widgets.append(page)
 
-        self._build_nav(main)
-
     def _build_welcome(self) -> Gtk.Widget:
         scroll = Gtk.ScrolledWindow()
         scroll.set_policy(Gtk.PolicyType.NEVER, Gtk.PolicyType.AUTOMATIC)
@@ -499,102 +497,22 @@ class BrowserSelectorWindow(Adw.ApplicationWindow):
 
     def _finish_install(self, _browser_label: str) -> None:
         """Called when user clicks Done on the install panel."""
-        self._set_nav_sensitive(True)
         self.browser_stack.set_visible_child_name("browsers")
         self.refresh_browser_states()
-
-    def _set_nav_sensitive(self, sensitive: bool) -> None:
-        """Enable or disable navigation buttons during installation."""
-        self.back_btn.set_sensitive(sensitive)
-        self.next_btn.set_sensitive(sensitive)
 
     # ------------------------------------------------------------------
     # Navigation
     # ------------------------------------------------------------------
 
-    def _build_nav(self, parent: Gtk.Box) -> None:
-        bar = Gtk.CenterBox()
-        bar.add_css_class("bottom-bar")
-        parent.append(bar)
-
-        # Collect page titles for progress dots
-        page_titles = [_("Browser Selector")]
-        if self.pages_data:
-            for p in self.pages_data:
-                if p.get("page_type") == "browsers":
-                    page_titles.append(_(p.get("title", "")))
-
-        total = len(page_titles)
-        self.progress = ProgressDots(total, page_titles)
-        bar.set_center_widget(self.progress)
-
-        nav = Gtk.Box(spacing=10)
-        bar.set_end_widget(nav)
-
-        self.back_btn = Gtk.Button()
-        back_icon = Gtk.Image.new_from_icon_name("go-previous-symbolic")
-        back_icon.set_pixel_size(16)
-        self.back_btn.set_child(back_icon)
-        self.back_btn.add_css_class("nav-button")
-        self.back_btn.add_css_class("back")
-        self.back_btn.set_visible(False)
-        # Accessibility
-        self.back_btn.update_property([Gtk.AccessibleProperty.LABEL], [_("Previous page")])
-        self.back_btn.connect("clicked", self._on_back)
-        nav.append(self.back_btn)
-
-        self.next_btn = Gtk.Button()
-        next_icon = Gtk.Image.new_from_icon_name("go-next-symbolic")
-        next_icon.set_pixel_size(16)
-        self.next_btn.set_child(next_icon)
-        self.next_btn.add_css_class("nav-button")
-        self.next_btn.add_css_class("next")
-        # Accessibility
-        self.next_btn.update_property([Gtk.AccessibleProperty.LABEL], [_("Next page")])
-        self.next_btn.connect("clicked", self._on_next)
-        nav.append(self.next_btn)
-
-    def _update_nav(self) -> None:
-        is_first = self.current_page == 0
-        is_last = self.current_page == len(self.page_widgets) - 1
-
-        self.back_btn.set_visible(not is_first)
-
-        if is_last:
-            self.next_btn.remove_css_class("nav-button")
-            self.next_btn.remove_css_class("next")
-            self.next_btn.add_css_class("finish-button")
-            self.next_btn.set_child(Gtk.Label(label=_("Done")))
-            self.next_btn.update_property([Gtk.AccessibleProperty.LABEL], [_("Done")])
-        else:
-            self.next_btn.add_css_class("nav-button")
-            self.next_btn.add_css_class("next")
-            self.next_btn.remove_css_class("finish-button")
-            icon = Gtk.Image.new_from_icon_name("go-next-symbolic")
-            icon.set_pixel_size(16)
-            self.next_btn.set_child(icon)
-            self.next_btn.update_property([Gtk.AccessibleProperty.LABEL], [_("Next page")])
-
-    def _on_back(self, _btn: Gtk.Button) -> None:
-        if self.current_page > 0:
-            self.current_page -= 1
-            self.stack.set_transition_type(Gtk.StackTransitionType.SLIDE_RIGHT)
-            self._navigate()
-
     def _on_next(self, _btn: Gtk.Button) -> None:
-        if self.current_page < len(self.page_widgets) - 1:
+        """Proceed to next browser page or finish selection."""
+        if self.current_page < len(self.page_widgets):
             self.current_page += 1
-            self.stack.set_transition_type(Gtk.StackTransitionType.SLIDE_LEFT)
-            self._navigate()
+            self.stack.set_visible_child_name(f"page_{self.current_page}")
         else:
             self.close()
 
-    def _navigate(self) -> None:
-        if self.current_page == 0:
-            self.stack.set_visible_child_name("welcome")
-        else:
-            self.stack.set_visible_child_name(f"page_{self.current_page - 1}")
-
-        self.progress.set_page(self.current_page)
-        self._update_nav()
+    def close(self) -> None:
+        """Close the application window."""
+        GLib.idle_add(self.response, Gtk.ResponseType.OK)
 
