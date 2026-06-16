@@ -40,6 +40,10 @@ msgstr "Gat ekki opnað forrit"
 # 
 # File: biglinux-browser-selector/usr/share/biglinux/browser-selector/widgets.py, line: 244
 # 
+# File: biglinux-browser-selector/usr/share/biglinux/browser-selector/widgets.py, line: 244
+# 
+# File: biglinux-browser-selector/usr/share/biglinux/browser-selector/widgets.py, line: 244
+# 
 # File: biglinux-browser-selector/usr/share/biglinux/browser_selector/widgets.py, line: 244
 # 
 # File: biglinux-browser-selector/usr/share/biglinux/browser_selector/widgets.py, line: 244

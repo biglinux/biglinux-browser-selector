@@ -40,6 +40,10 @@ msgstr "Не удалось открыть приложение"
 # 
 # File: biglinux-browser-selector/usr/share/biglinux/browser-selector/widgets.py, line: 244
 # 
+# File: biglinux-browser-selector/usr/share/biglinux/browser-selector/widgets.py, line: 244
+# 
+# File: biglinux-browser-selector/usr/share/biglinux/browser-selector/widgets.py, line: 244
+# 
 # File: biglinux-browser-selector/usr/share/biglinux/browser_selector/widgets.py, line: 244
 # 
 # File: biglinux-browser-selector/usr/share/biglinux/browser_selector/widgets.py, line: 244
@@ -103,6 +107,10 @@ msgstr "Отмена"
 # File: biglinux-browser-selector/usr/share/biglinux/browser_selector/widgets.py, line: 580
 msgid "Cancel installation"
 msgstr "Отменить установку"
+# 
+# File: biglinux-browser-selector/usr/share/biglinux/browser-selector/widgets.py, line: 585
+# 
+# File: biglinux-browser-selector/usr/share/biglinux/browser-selector/widgets.py, line: 585
 # 
 # File: biglinux-browser-selector/usr/share/biglinux/browser-selector/widgets.py, line: 585
 # 

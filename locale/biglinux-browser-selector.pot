@@ -213,7 +213,7 @@ msgid   "%s set as default"
 msgstr  ""
 
 #
-# File: biglinux-browser-selector/usr/share/biglinux/browser-selector/window.py, line: 473
+# File: biglinux-browser-selector/usr/share/biglinux/browser-selector/window.py, line: 482
 msgid   "Still working…"
 msgstr  ""
 

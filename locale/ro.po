@@ -98,6 +98,10 @@ msgstr "Anulează instalarea"
 # 
 # File: biglinux-browser-selector/usr/share/biglinux/browser-selector/widgets.py, line: 585
 # 
+# File: biglinux-browser-selector/usr/share/biglinux/browser-selector/widgets.py, line: 585
+# 
+# File: biglinux-browser-selector/usr/share/biglinux/browser-selector/widgets.py, line: 585
+# 
 # #-#-#-#-#  biglinux-browser-selector.pot (biglinux-browser-selector)  #-#-#-#-#
 # 
 # File: biglinux-browser-selector/usr/share/biglinux/browser_selector/widgets.py, line: 585

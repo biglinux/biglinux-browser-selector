@@ -40,6 +40,10 @@ msgstr "Rakendust ei saanud avada."
 # 
 # File: biglinux-browser-selector/usr/share/biglinux/browser-selector/widgets.py, line: 244
 # 
+# File: biglinux-browser-selector/usr/share/biglinux/browser-selector/widgets.py, line: 244
+# 
+# File: biglinux-browser-selector/usr/share/biglinux/browser-selector/widgets.py, line: 244
+# 
 # File: biglinux-browser-selector/usr/share/biglinux/browser_selector/widgets.py, line: 244
 # 
 # File: biglinux-browser-selector/usr/share/biglinux/browser_selector/widgets.py, line: 244
@@ -103,6 +107,10 @@ msgstr "Tühista"
 # File: biglinux-browser-selector/usr/share/biglinux/browser_selector/widgets.py, line: 580
 msgid "Cancel installation"
 msgstr "Tühista installimine"
+# 
+# File: biglinux-browser-selector/usr/share/biglinux/browser-selector/widgets.py, line: 585
+# 
+# File: biglinux-browser-selector/usr/share/biglinux/browser-selector/widgets.py, line: 585
 # 
 # File: biglinux-browser-selector/usr/share/biglinux/browser-selector/widgets.py, line: 585
 # 

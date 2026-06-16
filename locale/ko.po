@@ -37,6 +37,10 @@ msgid "Could not open application"
 msgstr "응용 프로그램을 열 수 없습니다."
 # 
 # File: biglinux-browser-selector/usr/share/biglinux/browser-selector/widgets.py, line: 244
+msgid "OK"
+msgstr "알겠습니다."
+# 
+# File: biglinux-browser-selector/usr/share/biglinux/browser-selector/widgets.py, line: 244
 # 
 # File: biglinux-browser-selector/usr/share/biglinux/browser-selector/widgets.py, line: 244
 # 

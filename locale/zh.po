@@ -40,6 +40,10 @@ msgstr "无法打开应用程序"
 # 
 # File: biglinux-browser-selector/usr/share/biglinux/browser-selector/widgets.py, line: 244
 # 
+# File: biglinux-browser-selector/usr/share/biglinux/browser-selector/widgets.py, line: 244
+# 
+# File: biglinux-browser-selector/usr/share/biglinux/browser-selector/widgets.py, line: 244
+# 
 # File: biglinux-browser-selector/usr/share/biglinux/browser_selector/widgets.py, line: 244
 # 
 # File: biglinux-browser-selector/usr/share/biglinux/browser_selector/widgets.py, line: 244
@@ -103,6 +107,10 @@ msgstr "取消"
 # File: biglinux-browser-selector/usr/share/biglinux/browser_selector/widgets.py, line: 580
 msgid "Cancel installation"
 msgstr "取消安装"
+# 
+# File: biglinux-browser-selector/usr/share/biglinux/browser-selector/widgets.py, line: 585
+# 
+# File: biglinux-browser-selector/usr/share/biglinux/browser-selector/widgets.py, line: 585
 # 
 # File: biglinux-browser-selector/usr/share/biglinux/browser-selector/widgets.py, line: 585
 # 
