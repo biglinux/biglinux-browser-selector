@@ -397,7 +397,8 @@ class BrowserSelectorWindow(Adw.ApplicationWindow):
         self.browser_stack.set_visible_child_name("installing")
 
         # Disable navigation during install
-        self._set_nav_sensitive(False)
+        for card in self.browser_cards:
+            card.set_sensitive(False)
 
         # Start pulse animation and background install
         panel.start_pulse()
@@ -415,6 +416,14 @@ class BrowserSelectorWindow(Adw.ApplicationWindow):
         proc = getattr(self, "_install_proc", None)
         if proc and proc.poll() is None:
             proc.terminate()
+        
+        # Re-enable cards after cancel
+        GLib.idle_add(lambda: self._re_enable_cards_after_cancel())
+
+    def _re_enable_cards_after_cancel(self) -> None:
+        """Re-enable all cards after installation is cancelled."""
+        for card in self.browser_cards:
+            card.set_sensitive(True)
 
     def _perform_browser_install(self, card: BrowserCard, panel) -> None:
         """Run browser installation script, reading output in real time."""
@@ -499,6 +508,10 @@ class BrowserSelectorWindow(Adw.ApplicationWindow):
         """Called when user clicks Done on the install panel."""
         self.browser_stack.set_visible_child_name("browsers")
         self.refresh_browser_states()
+        
+        # Re-enable card navigation
+        for card in self.browser_cards:
+            card.set_sensitive(True)
 
     # ------------------------------------------------------------------
     # Navigation
