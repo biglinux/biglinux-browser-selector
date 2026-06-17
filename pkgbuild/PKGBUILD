@@ -1,31 +1,25 @@
-# Maintainer: Bruno Goncalves <bigbruno@gmail.com>
+# Maintainer: Barnabé di Kartola <barnabedikartola@gmail.com>
 
 pkgname=biglinux-browser-selector
 pkgver=$(date +%y.%m.%d)
 pkgrel=$(date +%H%M)
+pkgdesc="Browser Selector"
 arch=('any')
-license=('GPL')
-pkgdesc="Choose your default web browser with a modern GTK4 interface."
-depends=('gtk4' 'python' 'polkit' 'python-yaml')
 url="https://github.com/biglinux/$pkgname"
-
+license=('GPL3')
+# depends=('')
+provides=("$pkgname")
+# conflicts=('')
 source=("git+${url}.git")
-md5sums=(SKIP)
+md5sums=('SKIP')
 if [ -e "${pkgname}.install" ];then
     install=${pkgname}.install
 fi
 
-if [ -e "${pkgname}.install" ]; then
-    install=${pkgname}.install
-fi
 
 package() {
-    # Verify default folder
-    if [ -d "${srcdir}/${pkgname}/${pkgname}" ]; then
-        InternalDir="${srcdir}/${pkgname}/${pkgname}"
-    else
-        InternalDir="${srcdir}/${pkgname}"
-    fi
+
+    InternalDir="${srcdir}/${pkgname}"
 
     # Copy files
     if [ -d "${InternalDir}/usr" ]; then
@@ -40,4 +34,3 @@ package() {
         cp -r "${InternalDir}/opt" "${pkgdir}/"
     fi
 }
-
