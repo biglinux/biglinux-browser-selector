@@ -9,6 +9,7 @@ post_install() {
   if [ "$(grep -i xivastudio <<< $release)" ];then
     if [ -e "/etc/skel/.config/falkon/profiles/default/settings.ini" ];then
       sed -i 's/biglinux.com.br/xivastudio.org/' /etc/skel/.config/falkon/profiles/default/settings.ini
+      sed -i 's/http/https/' /etc/skel/.config/falkon/profiles/default/settings.ini
     fi
   fi
 }
